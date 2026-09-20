@@ -3,24 +3,24 @@
     "id": 1,
     "name": "clcrashbandicoot",
     "cover": "{COVER_URL}/OIP (5).webp",
-   "url": "{HTML_URL}/clcrashbandicoot (1).html",
+    "url": "{HTML_URL}/clcrashbandicoot (1).html"
   },
-    {
+  {
     "id": 2,
     "name": "clcrash2",
     "cover": "{COVER_URL}/OIP (6).webp",
-   "url": "{HTML_URL}/clcrash2 (1).html",
+    "url": "{HTML_URL}/clcrash2 (1).html"
   },
   {
     "id": 3,
     "name": "clcrash3",
     "cover": "{COVER_URL}/R.webp",
-   "url": "{HTML_URL}/clcrash3.html",
+    "url": "{HTML_URL}/clcrash3.html"
   },
   {
     "id": 4,
     "name": "minecraft 26.2",
     "cover": "https://4kwallpapers.com/images/wallpapers/minecraft-key-art-2880x1800-20204.jpg",
-   "url": "https://sparkling-hummingbird-3eca67.netlify.app/",
-  },
+    "url": "https://sparkling-hummingbird-3eca67.netlify.app/"
+  }
 ]

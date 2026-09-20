@@ -22,5 +22,23 @@
     "name": "minecraft 26.2",
     "cover": "https://4kwallpapers.com/images/wallpapers/minecraft-key-art-2880x1800-20204.jpg",
     "url": "https://sparkling-hummingbird-3eca67.netlify.app/"
+  },
+   {
+    "id": 5,
+    "name": "Paper Mario",
+    "cover": "https://th.bing.com/th/id/R.d437993f096387aca04863288e53137f?rik=Z2ZEu2uELdcNXw&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/clpapermario.html"
+  },
+    {
+    "id": 6,
+    "name": "Paper Mario black pit",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co3hgi.jpg",
+    "url": "{HTML_URL}/clpapermarioblackpit.html"
+  },
+  {
+    "id": 7,
+    "name": "Paper Mario pro mode",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.3iJUoR2RfBIvxym_lliNtQHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/clpapermariopromode.html"
   }
 ]

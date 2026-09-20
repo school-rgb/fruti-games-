@@ -52,5 +52,23 @@
     "name": "Pokemon Blue Version",
     "cover": "https://cdn.mobygames.com/covers/9344513-pokemon-blue-version-game-boy-front-cover.jpg",
     "url": "{HTML_URL}/clpokeblue.html"
+  },
+  {
+    "id": 10,
+    "name": "super mario galaxy ds ",
+    "cover": "https://th.bing.com/th/id/OIP.X_qmf4oRU-4bKcu9VlEJHwHaGo?w=206&h=184&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
+    "url": "{HTML_URL}/clsmgds.html"
+  },
+ {
+    "id": 12,
+    "name": "New Super Mario Bros U DS",
+    "cover": "https://th.bing.com/th/id/OIP.PZUH-y7Y2tb67QUpT1cVRgHaKl?w=140&h=200&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
+    "url": "{HTML_URL}/clnsmbuds (1).html"
+  },
+  {
+    "id": 13,
+    "name": "New Super Mario Bros wii DS",
+    "cover": "https://th.bing.com/th/id/R.5a37029eac9ada28867143ccd4fbbe15?rik=iUicOuq4XYYUQQ&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/clnsmbwds (1).html"
   }
 ]

@@ -41,4 +41,16 @@
     "cover": "https://tse4.mm.bing.net/th/id/OIP.3iJUoR2RfBIvxym_lliNtQHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/clpapermariopromode.html"
   }
+      {
+    "id": 8,
+    "name": "bloons td 6 scratch",
+    "cover": "https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/bloons-td-6-offer-1jl6n.jpg",
+    "url": "{HTML_URL}/clbloonsTD6scratch (1).html"
+  },
+      {
+    "id": 9,
+    "name": "Pokemon Blue Version",
+    "cover": "https://cdn.mobygames.com/covers/9344513-pokemon-blue-version-game-boy-front-cover.jpg",
+    "url": "{HTML_URL}/clpokeblue.html"
+  },
 ]

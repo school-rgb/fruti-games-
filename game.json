@@ -70,5 +70,17 @@
     "name": "New Super Mario Bros wii DS",
     "cover": "https://th.bing.com/th/id/R.5a37029eac9ada28867143ccd4fbbe15?rik=iUicOuq4XYYUQQ&pid=ImgRaw&r=0",
     "url": "{HTML_URL}/clnsmbwds (1).html"
+  },
+  {
+    "id": 13,
+    "name": "minecraft 1.20.6",
+    "cover": "https://cdn.mos.cms.futurecdn.net/AZ4nyhrARyZhc69hMXAy3L.jpg",
+    "url": "https://storied-stroopwafel-d39782.netlify.app/"
+  },
+  {
+    "id": 13,
+    "name": "minecraft 1.16",
+    "cover": "https://i.ytimg.com/vi/3Sasj8CBaPY/maxresdefault.jpg",
+    "url": "https://adorable-hotteok-015876.netlify.app/"
   }
 ]

@@ -26,7 +26,7 @@
   {
     "id": -5,
     "name": "Paper Mario",
-    "cover": "https://th.bing.com/th/id/R.d437993f096387aca04863288e53137f?rik=Z2ZEu2uELdcNXw&pid=ImgRaw&r=0",
+    "cover": "https://truffled.lol/png/games/papermario.webp",
     "url": "{HTML_URL}/clpapermario.html"
   },
   {
@@ -82,5 +82,71 @@
     "name": "minecraft 1.16",
     "cover": "https://i.ytimg.com/vi/3Sasj8CBaPY/maxresdefault.jpg",
     "url": "https://adorable-hotteok-015876.netlify.app/"
-  }
+  },
+  {
+    "id": -16,
+    "name": "Bowmasters",
+    "cover": "https://github.com/gn-math/covers/blob/main/0.png?raw=true",
+    "url": "{HTML_URL}/0.html"
+  },
+   {
+    "id": -17,
+    "name": "ovo",
+    "cover": "https://raw.githubusercontent.com/gn-math/covers/ca794888f2fdf65c89251eb1ffbd7df243e77f76/1.png",
+    "url": "{HTML_URL}/1-fde.html"
+  },
+  {
+    "id": -18,
+    "name": "ovo 2",
+    "cover": "https://raw.githubusercontent.com/gn-math/covers/ca794888f2fdf65c89251eb1ffbd7df243e77f76/2.png",
+    "url": "{HTML_URL}/2e.html"
+  },
+   {
+    "id": -19,
+    "name": "ovo 3",
+    "cover": "https://raw.githubusercontent.com/gn-math/covers/ca794888f2fdf65c89251eb1ffbd7df243e77f76/2.png",
+    "url": "{HTML_URL}/ovo3.html"
+  },
+  {
+    "id": -20,
+    "name": "Grand Theft Auto III",
+    "cover": "https://truffled.lol/png/games/gta3.webp",
+    "url": "{HTML_URL}/gta3.html"
+  },
+  {
+    "id": -21,
+    "name": "Grand Theft Auto vice city",
+    "cover": "https://www.igrandtheftauto.com/content/images/gtavc-logo.png",
+    "url": "{HTML_URL}/gtavice.html"
+  },
+    {
+    "id": -22,
+    "name": "Grand Theft Auto San Andreas",
+    "cover": "https://www.igrandtheftauto.com/content/images/gtasa-logo-square.png",
+    "url": "{HTML_URL}/gtasan.html"
+  },
+   {
+    "id": -23,
+    "name": "-3",
+    "cover": "https://gn-math.dev/s/EE0_FEFXflkxUx5iECccXCcNRB9_GDdDXysSex5LLgFQGDgFPFIDP1U3F08uFkEtPBc7WV8//816.png",
+    "url": "{HTML_URL}/-3.html"
+  },
+   {
+    "id": -24,
+    "name": "-b",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/817.png",
+    "url": "{HTML_URL}/cl-b (1).html"
+  },
+  {
+    "id": -25,
+    "name": "1",
+    "cover": "https://truffled.lol/png/games/1.webp",
+    "url": "{HTML_URL}/1.html"
+  },
+    {
+    "id": -26,
+    "name": "10 Minutes Till Dawn",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.QSTUMsTUi0J-szUioTpkuwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/10 min ti dawn.html"
+  },
 ]

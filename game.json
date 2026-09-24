@@ -358,5 +358,29 @@
     "name": "GangBeast",
     "cover": "https://tse4.mm.bing.net/th/id/OIP.crZIQ2uO5QRQxD17KvDsfAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "https://school-rgb.github.io/GangBeast-WebPort/"
+  },
+   {
+    "id": -62,
+    "name": "1 on 1 Soccer",
+    "cover": "https://brodiemcn.github.io/img/1on1soccer.jpg",
+    "url": "{HTML_URL}/1on1.html"
+  },
+   {
+    "id": -63,
+    "name": "Bad Ice Cream",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/269.png",
+    "url": "{HTML_URL}/Bad Ice Cream.html"
+  }
+   {
+    "id": -64,
+    "name": "Bad Ice Cream 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/270.png",
+    "url": "{HTML_URL}/Bad Ice Cream 2.html"
+  },
+    {
+    "id": -65,
+    "name": "Bad Ice Cream 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/271.png",
+    "url": "{HTML_URL}/Bad Ice Cream 3.html"
   }
 ]

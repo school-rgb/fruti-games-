@@ -395,5 +395,22 @@
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/262.png",
     "url": "{HTML_URL}/Half Life.html"
   },
-
+   {
+    "id": -68,
+    "name": "Hobo",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/673.png",
+    "url": "{HTML_URL}/Hobo.html"
+  },
+   {
+    "id": -69,
+    "name": "Hobo 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/674.png",
+    "url": "{HTML_URL}/Hobo2.html"
+  },
+   {
+    "id": -70,
+    "name": "Hobo 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/675.png",
+    "url": "{HTML_URL}/Hobo3.html"
+  },
 ]

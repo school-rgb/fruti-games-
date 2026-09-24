@@ -289,8 +289,8 @@
   },
     {
     "id": -50,
-    "name": "Angry Birds Space",
-    "cover": "https://tse2.mm.bing.net/th/id/OIP.o6NJcu9oi0QPDBk_DqjbhgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    "url": "{HTML_URL}/Angry Birds Space.html"
+    "name": "bad piggies",
+    "cover": "https://dordle.io/data/image/game/bad-piggies.png",
+    "url": "{HTML_URL}/clbadpiggies.html"
   }
 ]

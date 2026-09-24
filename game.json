@@ -308,13 +308,13 @@
    {
     "id": -53,
     "name": "Achievement Unlocked 2",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/61.png",
+    "cover": "https://truffled.lol/png/games/au2.webp",
     "url": "{HTML_URL}/Achievement Unlocked 2 .html"
   },
     {
     "id": -54,
     "name": "Achievement Unlocked 3",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/61.png",
+    "cover": "https://truffled.lol/png/games/au3.webp",
     "url": "{HTML_URL}/Achievement Unlocked 3 .html"
   },
     {
@@ -520,5 +520,47 @@
     "name": "Amanda the Adventurer",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/450.png",
     "url": "{HTML_URL}/Amanda the Adventurer.html"
+  },
+    {
+    "id": -89,
+    "name": "Angry Birds Online",
+    "cover": "https://truffled.lol/png/games/angrybirdsonline.webp",
+    "url": "{HTML_URL}/Angry Birds Online.html"
+  },
+     {
+    "id": -90,
+    "name": "undertale",
+    "cover": "https://truffled.lol/png/games/uertale.webp",
+    "url": "{HTML_URL}/undertale.html"
+  },
+   {
+    "id": -91,
+    "name": "A Difficult Game About Climbing",
+    "cover": "https://truffled.lol/png/games/adgac.webp",
+    "url": "{HTML_URL}/A Difficult Game About Climbing.html"
+  },
+  {
+    "id": -92,
+    "name": "vex",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/45.png",
+    "url": "{HTML_URL}/clvex.html"
+  },
+   {
+    "id": -93,
+    "name": "vex 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/46.png",
+    "url": "{HTML_URL}/clvex2.html"
+  },
+    {
+    "id": -94,
+    "name": "vex 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/47.png",
+    "url": "{HTML_URL}/clvex3.html"
+  },
+   {
+    "id": -95,
+    "name": "vex 4",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/49.png",
+    "url": "{HTML_URL}/clvex4.html"
   }
 ]

@@ -493,14 +493,14 @@
   },
   {
     "id": -84,
-    "name": "Cut the Rope Holiday",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/214.png",
-    "url": "{HTML_URL}/Cut the Rope: Holiday.html"
+    "name": "Mario Kart 64",
+    "cover": "https://truffled.lol/png/games/mk64.webp",
+    "url": "{HTML_URL}/clmk64ampedup.html"
   },
    {
-    "id": -84,
-    "name": "Cut the Rope Time Travel",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/213.png",
-    "url": "{HTML_URL}/Cut the Rope: Time Travel.html"
+    "id": -85,
+    "name": "Drift Hunters",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/173.png",
+    "url": "{HTML_URL}/Drift Hunters.html"
   }
 ]

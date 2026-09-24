@@ -162,9 +162,39 @@
     "url": "{HTML_URL}/Angry Birds 2.html"
   },
    {
-    "id": -28,
+    "id": -29,
     "name": "Angry Birds Showdown",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/147.png",
     "url": "{HTML_URL}/Angry Birds Showdown.html"
+  },
+   {
+    "id": -30,
+    "name": "bloon td 1",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/71.png",
+    "url": "{HTML_URL}/bloontd1.html"
+  },
+   {
+    "id": -31,
+    "name": "bloon td 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/72.png",
+    "url": "{HTML_URL}/bloontd2.html"
+  },
+   {
+    "id": -32,
+    "name": "bloon td 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/73.png",
+    "url": "{HTML_URL}/bloontd3.html"
+  },
+   {
+    "id": -33,
+    "name": "bloon td 4",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/74.png",
+    "url": "{HTML_URL}/bloontd4.html"
+  },
+    {
+    "id": -34,
+    "name": "bloon td 5",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/75.png",
+    "url": "{HTML_URL}/bloontd5.html"
   }
 ]

@@ -316,5 +316,41 @@
     "name": "Achievement Unlocked 3",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/61.png",
     "url": "{HTML_URL}/Achievement Unlocked 3 .html"
+  },
+    {
+    "id": -55,
+    "name": "Mario Party",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.zzORRhws3r1XR419cn_ROwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/clmarioparty.html"
+  }, 
+  {
+    "id": -56,
+    "name": "Mario Party 2",
+    "cover": "https://th.bing.com/th/id/R.455b9cc61cc14e1237077a6d93b3e815?rik=xFpaUikUToow5Q&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/clmarioparty2.html"
+  },  
+  {
+    "id": -57,
+    "name": "Mario Party 3",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.6oQ3ymeIRlSuQLDc7T4vnAHaDt?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/clmarioparty3.html"
+  },
+  {
+    "id": -58,
+    "name": "Doom",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/203.png",
+    "url": "{HTML_URL}/Doom.html"
+  },
+  {
+    "id": -59,
+    "name": "Doom 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/602.png",
+    "url": "{HTML_URL}/Doom2.html"
+  },
+  {
+    "id": -60,
+    "name": "fallout",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/585.png",
+    "url": "{HTML_URL}/clfallout.html"
   }
 ]

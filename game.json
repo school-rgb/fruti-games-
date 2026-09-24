@@ -206,7 +206,7 @@
    {
     "id": -36,
     "name": "buildnow.gg",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/75.png",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/581.png",
     "url": "{HTML_URL}/buildnow.gg.html"
   },
    {
@@ -226,5 +226,29 @@
     "name": "Fireboy and Watergirl 2",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/88.png",
     "url": "{HTML_URL}/Fireboy and Watergirl2.html"
+  },
+  {
+    "id": -40,
+    "name": "Fireboy and Watergirl 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/89.png",
+    "url": "{HTML_URL}/Fireboy and Watergirl3.html"
+  },
+   {
+    "id": -41,
+    "name": "super mario 64 ",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/89.png",
+    "url": "{HTML_URL}/super mario 64.html"
+  },
+  {
+    "id": -42,
+    "name": "Achilles",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.hkS6MDlXgLBj4YxdVjp4wQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Achilles.html"
+  },
+  {
+    "id": -43,
+    "name": "Achilles 2",
+    "cover": "https://cdn.kiz10.com/upload/thumbnails/1389669331_juegos-gbatis-achilles2.png",
+    "url": "{HTML_URL}/Achilles 2.html"
   }
 ]

@@ -37,9 +37,9 @@
   },
   {
     "id": -7,
-    "name": "Paper Mario pro mode",
-    "cover": "https://tse4.mm.bing.net/th/id/OIP.3iJUoR2RfBIvxym_lliNtQHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    "url": "{HTML_URL}/clpapermariopromode.html"
+    "name": "2048",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/114.png",
+    "url": "{HTML_URL}/2048.html"
   },
   {
     "id": -8,
@@ -250,5 +250,11 @@
     "name": "Achilles 2",
     "cover": "https://cdn.kiz10.com/upload/thumbnails/1389669331_juegos-gbatis-achilles2.png",
     "url": "{HTML_URL}/Achilles 2.html"
+  },
+  {
+    "id": -44,
+    "name": "brotato",
+    "cover": "https://cdn1.epicgames.com/spt-assets/2c5525406ea34caebf391f1f4c8a44a5/brotato-294jp.png",
+    "url": "{HTML_URL}/brotato.html"
   }
 ]

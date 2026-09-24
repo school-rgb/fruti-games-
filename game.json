@@ -502,5 +502,11 @@
     "name": "Drift Hunters",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/173.png",
     "url": "{HTML_URL}/Drift Hunters.html"
+  },
+   {
+    "id": -86,
+    "name": "A Game About Feeding A Black Hole",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/719.png",
+    "url": "{HTML_URL}/A Game About Feeding A Black Hole.html"
   }
 ]

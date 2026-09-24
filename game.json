@@ -256,5 +256,41 @@
     "name": "brotato",
     "cover": "https://cdn1.epicgames.com/spt-assets/2c5525406ea34caebf391f1f4c8a44a5/brotato-294jp.png",
     "url": "{HTML_URL}/brotato.html"
+  },
+   {
+    "id": -45,
+    "name": "8 Ball Classic",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/146.png",
+    "url": "{HTML_URL}/8 Ball Classic.html"
+  },
+  {
+    "id": -46,
+    "name": "8 Ball Pool",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/115.png",
+    "url": "{HTML_URL}/8 Ball Pool.html"
+  },
+   {
+    "id": -47,
+    "name": "60 Seconds! Reatomized",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/858.png",
+    "url": "{HTML_URL}/60 Seconds! Reatomized.html"
+  },
+  {
+    "id": -48,
+    "name": "1v1.lol",
+    "cover": "https://imgs2.dab3games.com/1v1-lol-game30.png",
+    "url": "{HTML_URL}/1v1.lol.html"
+  },
+   {
+    "id": -49,
+    "name": "Angry Birds Space",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.o6NJcu9oi0QPDBk_DqjbhgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Angry Birds Space.html"
+  },
+    {
+    "id": -50,
+    "name": "Angry Birds Space",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.o6NJcu9oi0QPDBk_DqjbhgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Angry Birds Space.html"
   }
 ]

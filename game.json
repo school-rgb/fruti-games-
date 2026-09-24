@@ -292,5 +292,29 @@
     "name": "bad piggies",
     "cover": "https://dordle.io/data/image/game/bad-piggies.png",
     "url": "{HTML_URL}/clbadpiggies.html"
+  },
+   {
+    "id": -51,
+    "name": "Baldi’s Basics",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/65.png",
+    "url": "{HTML_URL}/Baldi’s Basics.html"
+  },
+   {
+    "id": -52,
+    "name": "Achievement Unlocked",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/61.png",
+    "url": "{HTML_URL}/Achievement Unlocked .html"
+  },
+   {
+    "id": -53,
+    "name": "Achievement Unlocked 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/61.png",
+    "url": "{HTML_URL}/Achievement Unlocked 2 .html"
+  },
+    {
+    "id": -54,
+    "name": "Achievement Unlocked 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/61.png",
+    "url": "{HTML_URL}/Achievement Unlocked 3 .html"
   }
 ]

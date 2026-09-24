@@ -104,7 +104,7 @@
   {
     "id": -19,
     "name": "ovo 3",
-    "cover": "https://raw.githubusercontent.com/gn-math/covers/ca794888f2fdf65c89251eb1ffbd7df243e77f76/2.png",
+    "cover": "https://raw.githubusercontent.com/gn-math/covers/ca794888f2fdf65c89251eb1ffbd7df243e77f76/3.png",
     "url": "{HTML_URL}/ovo3.html"
   },
   {
@@ -148,5 +148,23 @@
     "name": "10 Minutes Till Dawn",
     "cover": "https://tse4.mm.bing.net/th/id/OIP.QSTUMsTUi0J-szUioTpkuwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/10 min ti dawn.html"
+  },
+    {
+    "id": -27,
+    "name": "Angry Birds",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/63.png",
+    "url": "{HTML_URL}/Angry Birds.html"
+  },
+  {
+    "id": -28,
+    "name": "Angry Birds 2",
+    "cover": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/angry-birds-2/4/45/Angry-birds-2-button-000jpg-82f136.jpg",
+    "url": "{HTML_URL}/Angry Birds 2.html"
+  },
+   {
+    "id": -28,
+    "name": "Angry Birds Showdown",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/147.png",
+    "url": "{HTML_URL}/Angry Birds Showdown.html"
   }
 ]

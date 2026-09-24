@@ -116,13 +116,13 @@
   {
     "id": -21,
     "name": "Grand Theft Auto vice city",
-    "cover": "https://www.igrandtheftauto.com/content/images/gtavc-logo.png",
+    "cover": "https://th.bing.com/th/id/OIP.W6BU6DSAmNjeE_Og8C9UMgAAAA?w=189&h=233&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
     "url": "{HTML_URL}/gtavice.html"
   },
   {
     "id": -22,
     "name": "Grand Theft Auto San Andreas",
-    "cover": "https://www.igrandtheftauto.com/content/images/gtasa-logo-square.png",
+    "cover": "https://th.bing.com/th?q=al-Qaida+Grand+Theft+Auto+San+Andreas&w=120&h=120&c=1&rs=1&qlt=70&r=0&o=7&cb=1&dpr=1.4&pid=InlineBlock&rm=3&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1&mw=247",
     "url": "{HTML_URL}/gtasan.html"
   },
   {
@@ -412,5 +412,59 @@
     "name": "Hobo 3",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/675.png",
     "url": "{HTML_URL}/Hobo3.html"
+  },
+  {
+    "id": -71,
+    "name": "Hobo 4",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/675.png",
+    "url": "{HTML_URL}/Hobo4.html"
+  },
+  {
+    "id": -72,
+    "name": "Hobo 5",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/675.png",
+    "url": "{HTML_URL}/Hobo5.html"
+  },
+  {
+    "id": -73,
+    "name": "Hobo 6",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/675.png",
+    "url": "{HTML_URL}/Hobo6.html"
+  },
+  {
+    "id": -74,
+    "name": "Hobo 7",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/675.png",
+    "url": "{HTML_URL}/Hobo7.html"
+  },
+  {
+    "id": -75,
+    "name": "Red Ball",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/239.png",
+    "url": "{HTML_URL}/Red Ball.html"
+  },
+    {
+    "id": -76,
+    "name": "Red Ball 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/240.png",
+    "url": "{HTML_URL}/Red Ball 2.html"
+  },
+  {
+    "id": -77,
+    "name": "Red Ball 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/241.png",
+    "url": "{HTML_URL}/Red Ball 3.html"
+  },
+    {
+    "id": -78,
+    "name": "Red Ball 4",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/242.png",
+    "url": "{HTML_URL}/Red Ball 4.html"
+  },
+   {
+    "id": -79,
+    "name": "Tung Tung Basics",
+    "cover": "https://truffled.lol/png/games/tungtungbasics.webp",
+    "url": "{HTML_URL}/Tung Tung Basics.html"
   }
 ]

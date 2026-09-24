@@ -382,5 +382,18 @@
     "name": "Bad Ice Cream 3",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/271.png",
     "url": "{HTML_URL}/Bad Ice Cream 3.html"
-  }
+  },
+   {
+    "id": -66,
+    "name": "Peak",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/847.png",
+    "url": "https://school-rgb.github.io/Peak-Port/?cdn=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwasmdotrip%2FPeak-Port%40main"
+  },
+   {
+    "id": -67,
+    "name": "Half Life",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/262.png",
+    "url": "{HTML_URL}/Half Life.html"
+  },
+
 ]

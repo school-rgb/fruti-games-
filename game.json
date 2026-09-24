@@ -472,5 +472,17 @@
     "name": "Tung Sahur Horror",
     "cover": "https://truffled.lol/png/games/tung.webp",
     "url": "{HTML_URL}/Tung Sahur Horror.html"
+  },
+   {
+    "id": -81,
+    "name": "3D Bolt Master",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/663.png",
+    "url": "{HTML_URL}/3D Bolt Master.html"
+  },
+    {
+    "id": -82,
+    "name": "Apes vs. Helium",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/783.png",
+    "url": "{HTML_URL}/Apes vs. Helium.html"
   }
 ]

@@ -484,5 +484,23 @@
     "name": "Apes vs. Helium",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/783.png",
     "url": "{HTML_URL}/Apes vs. Helium.html"
+  },
+   {
+    "id": -83,
+    "name": "Cut the Rope",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/85.png",
+    "url": "{HTML_URL}/Cut the Rope.html"
+  },
+  {
+    "id": -84,
+    "name": "Cut the Rope Holiday",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/214.png",
+    "url": "{HTML_URL}/Cut the Rope: Holiday.html"
+  },
+   {
+    "id": -84,
+    "name": "Cut the Rope Time Travel",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/213.png",
+    "url": "{HTML_URL}/Cut the Rope: Time Travel.html"
   }
 ]

@@ -508,5 +508,17 @@
     "name": "A Game About Feeding A Black Hole",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/719.png",
     "url": "{HTML_URL}/A Game About Feeding A Black Hole.html"
+  },
+   {
+    "id": -87,
+    "name": "Alien Hominid",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/304.png",
+    "url": "{HTML_URL}/Alien Hominid.html"
+  },
+   {
+    "id": -88,
+    "name": "Amanda the Adventurer",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/450.png",
+    "url": "{HTML_URL}/Amanda the Adventurer.html"
   }
 ]

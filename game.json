@@ -196,5 +196,35 @@
     "name": "bloon td 5",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/75.png",
     "url": "{HTML_URL}/bloontd5.html"
+  },
+   {
+    "id": -35,
+    "name": "Animal Crossing (GAME CUBE PORT)",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/828.png",
+    "url": "{HTML_URL}/Animal Crossing (GAME CUBE PORT).html"
+  },
+   {
+    "id": -36,
+    "name": "buildnow.gg",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/75.png",
+    "url": "{HTML_URL}/buildnow.gg.html"
+  },
+   {
+    "id": -37,
+    "name": "12 mini battles",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/295.png",
+    "url": "{HTML_URL}/12 mini battles.html"
+  },
+     {
+    "id": -38,
+    "name": "Fireboy and Watergirl",
+    "cover": "https://th.bing.com/th/id/OIP.I3aIG73zXO0CUPJ7khe7JgHaHa?w=170&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
+    "url": "{HTML_URL}/Fireboy and Watergirl.html"
+  },
+   {
+    "id": -39,
+    "name": "Fireboy and Watergirl 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/88.png",
+    "url": "{HTML_URL}/Fireboy and Watergirl2.html"
   }
 ]

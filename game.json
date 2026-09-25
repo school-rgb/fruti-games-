@@ -562,5 +562,47 @@
     "name": "vex 4",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/49.png",
     "url": "{HTML_URL}/clvex4.html"
+  },
+  {
+    "id": -96,
+    "name": "vex 5",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/50.png",
+    "url": "{HTML_URL}/clvex5.html"
+  },
+   {
+    "id": -96,
+    "name": "vex 6",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/51.png",
+    "url": "{HTML_URL}/clvex6.html"
+  },
+  {
+    "id": -97,
+    "name": "vex 7",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/52.png",
+    "url": "{HTML_URL}/clvex7.html"
+  },
+    {
+    "id": -98,
+    "name": "vex 8",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/53.png",
+    "url": "{HTML_URL}/clvex8.html"
+  },
+   {
+    "id": -99,
+    "name": "Vex Challenges",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/53.png",
+    "url": "{HTML_URL}/clvexchallenges.html"
+  },
+     {
+    "id": -100,
+    "name": "Vex X3M",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/54.png",
+    "url": "{HTML_URL}/clvexX3M.html"
+  },
+  {
+    "id": -101,
+    "name": "Vex X3M 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/55.png",
+    "url": "{HTML_URL}/clvexX3M2.html"
   }
 ]

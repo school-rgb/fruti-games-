@@ -610,5 +610,47 @@
     "name": "Drift Boss",
     "cover": "https://truffled.lol/png/games/driftboss.webp",
     "url": "{HTML_URL}/Drift Boss.html"
+  },
+  {
+    "id": -103,
+    "name": "Duck Life",
+    "cover": "https://truffled.lol/png/games/driftboss.webp",
+    "url": "{HTML_URL}/Duck Life.html"
+  },
+  {
+    "id": -104,
+    "name": "Duck Life 2",
+    "cover": "https://truffled.lol/png/games/driftboss.webp",
+    "url": "{HTML_URL}/Duck Life 2.html"
+  },
+  {
+    "id": -105,
+    "name": "Duck Life 3",
+    "cover": "https://truffled.lol/png/games/driftboss.webp",
+    "url": "{HTML_URL}/Duck Life 3.html"
+  },
+  {
+    "id": -106,
+    "name": "Duck Life 4",
+    "cover": "https://truffled.lol/png/games/driftboss.webp",
+    "url": "{HTML_URL}/Duck Life 4.html"
+  },
+  {
+    "id": -107,
+    "name": "Duck Life 5",
+    "cover": "https://truffled.lol/png/games/driftboss.webp",
+    "url": "{HTML_URL}/Duck Life 5.html"
+  },
+  {
+    "id": -108,
+    "name": "Duck Life Space",
+    "cover": "https://truffled.lol/png/games/driftboss.webp",
+    "url": "{HTML_URL}/Duck Life Space.html"
+  },
+    {
+    "id": -109,
+    "name": "Duck Life Battle",
+    "cover": "https://truffled.lol/png/games/driftboss.webp",
+    "url": "{HTML_URL}/Duck Life Battle.html"
   }
 ]

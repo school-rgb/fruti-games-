@@ -652,5 +652,29 @@
     "name": "Duck Life Battle",
     "cover": "https://tse2.mm.bing.net/th/id/OIP.z_u8_s47GWkswPM5MmKfgAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/Duck Life Battle.html"
+  },
+    {
+    "id": -110,
+    "name": "Five Nights at Freddy's",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/38.png",
+    "url": "{HTML_URL}/Five Nights at Freddy's.html"
+  },
+  {
+    "id": -111,
+    "name": "Five Nights at Freddy's 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/39.png",
+    "url": "{HTML_URL}/Five Nights at Freddy's 2.html"
+  },
+    {
+    "id": -112,
+    "name": "Five Nights at Freddy's 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/40.png",
+    "url": "{HTML_URL}/Five Nights at Freddy's 3.html"
+  },
+   {
+    "id": -113,
+    "name": "Five Nights at Freddy's 4",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/41.png",
+    "url": "{HTML_URL}/Five Nights at Freddy's 4.html"
   }
 ]

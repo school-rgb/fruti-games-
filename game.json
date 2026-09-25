@@ -684,10 +684,22 @@
     "url": "{HTML_URL}/Five Nights at Freddy's 4 Halloween.html"   
   },
       {
-    "id": -114,
+    "id": -115,
     "name": "Five Nights at Freddy's World",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/190.png",
     "url": "{HTML_URL}/Five Nights at Freddy's World.html"
     
+  },
+  {
+    "id": -116,
+    "name": "EmulatorJS",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/87.png",
+    "url": "{HTML_URL}/EmulatorJS.html"  
+  },
+    {
+    "id": -117,
+    "name": "Ruffle emulator",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/113.png",
+    "url": "{HTML_URL}/Ruffle emulator.html"
   }
 ]

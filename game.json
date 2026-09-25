@@ -701,5 +701,35 @@
     "name": "Ruffle emulator",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/113.png",
     "url": "{HTML_URL}/Ruffle emulator.html"
+  },
+   {
+    "id": -118,
+    "name": "Doom 64",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.XKcxyAmNj2i3OC_mFszpXwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Doom 64.html"
+  },
+   {
+    "id": -119,
+    "name": "Dragon Ball Advanced Adventure",
+    "cover": "https://th.bing.com/th/id/R.8797904111ddaee0e61985e287c1277e?rik=Afb09rMfsNaeTw&riu=http%3a%2f%2fpocketmedia.ign.com%2fpocket%2fimage%2fobject%2f707%2f707190%2fDBZ_AA_PckgGBA_Front.jpg&ehk=KHoE0TapQhBoXmhH33qh3OmFsOYyVJ6JAWXequT7klk%3d&risl=&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/Dragon Ball Advanced Adventure.html"
+  },
+  {
+    "id": -120,
+    "name": "Dragon Ball Z - Supersonic Warriors",
+    "cover": "https://th.bing.com/th/id/R.4318d1113a9d8c975a2b5c0ffaa168d7?rik=vW1S4kelIbuGmw&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/Dragon Ball Z - Supersonic Warriors.html"
+  },
+    {
+    "id": -121,
+    "name": "Dragon Ball Z - the Legacy of Goku",
+    "cover": "https://cdn.mobygames.com/covers/3898515-dragon-ball-z-the-legacy-of-goku-game-boy-advance-front-cover.jpg",
+    "url": "{HTML_URL}/Dragon Ball Z - the Legacy of Goku.html"
+  },
+    {
+    "id": -122,
+    "name": "Pokemon Black Version",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.Obtnmw8CHudwNHooz4IDQQHaGn?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Pokemon Black Version.html"
   }
 ]

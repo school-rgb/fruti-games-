@@ -590,19 +590,19 @@
    {
     "id": -99,
     "name": "Vex Challenges",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/53.png",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/54.png",
     "url": "{HTML_URL}/clvexchallenges.html"
   },
      {
     "id": -100,
     "name": "Vex X3M",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/54.png",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/55.png",
     "url": "{HTML_URL}/clvexX3M.html"
   },
   {
     "id": -101,
     "name": "Vex X3M 2",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/55.png",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/56.png",
     "url": "{HTML_URL}/clvexX3M2.html"
   }
 ]

@@ -604,5 +604,11 @@
     "name": "Vex X3M 2",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/56.png",
     "url": "{HTML_URL}/clvexX3M2.html"
+  },
+   {
+    "id": -102,
+    "name": "Drift Boss",
+    "cover": "https://truffled.lol/png/games/driftboss.webp",
+    "url": "{HTML_URL}/Drift Boss.html"
   }
 ]

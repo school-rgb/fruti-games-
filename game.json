@@ -676,5 +676,18 @@
     "name": "Five Nights at Freddy's 4",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/41.png",
     "url": "{HTML_URL}/Five Nights at Freddy's 4.html"
+  },
+    {
+    "id": -114,
+    "name": "Five Nights at Freddy's 4 Halloween",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/428.png",
+    "url": "{HTML_URL}/Five Nights at Freddy's 4 Halloween.html"   
+  },
+      {
+    "id": -114,
+    "name": "Five Nights at Freddy's World",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/190.png",
+    "url": "{HTML_URL}/Five Nights at Freddy's World.html"
+    
   }
 ]

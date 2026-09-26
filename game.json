@@ -839,5 +839,11 @@
      "name": "Wheely 7",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/251.png",
     "url": "{HTML_URL}/Wheely 7.html"
+  },
+   {
+    "id": -141,
+     "name": "Wheely 8",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/252.png",
+    "url": "{HTML_URL}/Wheely 8.html"
   }
 ]

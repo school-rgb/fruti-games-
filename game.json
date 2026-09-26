@@ -853,21 +853,27 @@
     "url": "{HTML_URL}/World’s Hardest Game.html"
   },
    {
-    "id": -142,
+    "id": -143,
      "name": "World’s Hardest Game 2",
     "cover": "https://tse1.mm.bing.net/th/id/OIP.vl_miz6_AfqUhifJm5OHxwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/World’s Hardest Game 2.html"
   },
    {
-    "id": -142,
+    "id": -144,
      "name": "World’s Hardest Game 3",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/104.png",
     "url": "{HTML_URL}/World’s Hardest Game 3.html"
   },
    {
-    "id": -142,
+    "id": -145,
      "name": "World’s Hardest Game 4",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/105.png",
     "url": "{HTML_URL}/World’s Hardest Game 4.html"
+  },
+  {
+    "id": -146,
+     "name": "Magic Tiles 3",
+    "cover": "https://cdn.mobygames.com/covers/17514493-magic-tiles-3-piano-game-iphone-front-cover.png",
+    "url": "{HTML_URL}/Magic Tiles 3.html"
   }
 ]

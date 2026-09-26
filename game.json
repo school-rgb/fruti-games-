@@ -911,13 +911,13 @@
      "name": "Sonic the Hedgehog",
     "cover": "https://truffled.lol/png/games/sonic1.webp",
     "url": "{HTML_URL}/Sonic the Hedgehog.html" 
-  }
+  },
   {
     "id": -153,
      "name": "Sonic the Hedgehog 2",
     "cover": "https://truffled.lol/png/games/sonic2.webp",
     "url": "{HTML_URL}/Sonic the Hedgehog 2.html" 
-  }
+  },
   {
     "id": -154,
      "name": "Sonic the Hedgehog 3",

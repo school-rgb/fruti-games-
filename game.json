@@ -875,5 +875,29 @@
      "name": "Magic Tiles 3",
     "cover": "https://cdn.mobygames.com/covers/17514493-magic-tiles-3-piano-game-iphone-front-cover.png",
     "url": "{HTML_URL}/Magic Tiles 3.html"
+  },
+    {
+    "id": -147,
+     "name": "Paper.io",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.JSkMmwqjgqRL9aBxZo2XQgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Paper.io.html"
+  },
+  {
+    "id": -148,
+     "name": "Run",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/175.png",
+    "url": "{HTML_URL}/Run.html" 
+  },
+    {
+    "id": -149,
+     "name": "Run 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/176.png",
+    "url": "{HTML_URL}/Run 2.html" 
+  },
+    {
+    "id": -150,
+     "name": "Run 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/177.png",
+    "url": "{HTML_URL}/Run 3.html" 
   }
 ]

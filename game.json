@@ -737,5 +737,11 @@
     "name": "Google Baseball",
     "cover": "https://truffled.lol/png/games/google.webp",
     "url": "{HTML_URL}/Google Baseball.html"
+  },
+   {
+    "id": -124,
+    "name": "Google Dino",
+    "cover": "https://play-lh.googleusercontent.com/iiIJq5JmLFYNI1bVz4IBHyoXs508JcEzHhOgau69bnveF9Wat51-ax9LMPVOlneKwqg",
+    "url": "{HTML_URL}/Google Dino.html"
   }
 ]

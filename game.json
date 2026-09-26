@@ -779,5 +779,29 @@
      "name": "Mario Kart DS",
     "cover": "https://tse3.mm.bing.net/th/id/OIP.kGcU1P9BOLscMj-Aoxw34QHaGp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/Mario Kart DS.html"
+  },
+  {
+    "id": -131,
+     "name": "Super Mario 64 DS",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.IF2ZEw7N-lk5BfF2oYy3BAHaGl?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Super Mario 64 DS.html"
+  },
+    {
+    "id": -132,
+     "name": "Super Mario 64 DS",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.IF2ZEw7N-lk5BfF2oYy3BAHaGl?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Super Mario 64 DS.html"
+  },
+   {
+    "id": -133,
+     "name": "10 Bullets",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.aw_611YINvTfX-IuB3qcAQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/10 Bullets.html"
+  },
+    {
+    "id": -134,
+     "name": "Undertale Yellow",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/456.png",
+    "url": "{HTML_URL}/Undertale Yellow.html"
   }
 ]

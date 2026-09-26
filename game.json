@@ -752,8 +752,32 @@
   }, 
   {
     "id": -126,
-    "name": "",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/624.png",
-    "url": "{HTML_URL}/Happy Wheels.html"
+    "name": "Lego Batman",
+    "cover": "https://www.lukiegames.com/assets/images/DS/ds_lego_batman_the_videogame-110214.jpg",
+    "url": "{HTML_URL}/Lego Batman.html"
   },
+   {
+    "id": -127,
+    "name": "Lego Batman 2",
+    "cover": "https://www.lukiegames.com/assets/images/DS/ds_lego_batman_the_videogame-110214.jpg",
+    "url": "{HTML_URL}/Lego Batman 2.html"
+  },
+  {
+    "id": -128,
+    "name": "Lego Indiana Jones",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.5862omt4-nb9kczSAdN_0gHaGn?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Lego Indiana Jones.html"
+  },
+  {
+    "id": -129,
+     "name": "Lego Indiana Jones 2",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.ELVyNfKtORerNNT1_vJiegHaGo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Lego Indiana Jones 2.html"
+  },
+   {
+    "id": -130,
+     "name": "Mario Kart DS",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.kGcU1P9BOLscMj-Aoxw34QHaGp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Mario Kart DS.html"
+  }
 ]

@@ -923,5 +923,35 @@
      "name": "Sonic the Hedgehog 3",
     "cover": "https://truffled.lol/png/games/sonic3.webp",
     "url": "{HTML_URL}/Sonic the Hedgehog 3.html" 
+  },
+    {
+    "id": -155,
+     "name": "Sonic CD",
+    "cover": "https://truffled.lol/png/games/soniccd.webp",
+    "url": "{HTML_URL}/Sonic CD.html" 
+  },
+      {
+    "id": -156,
+     "name": "Clash Of Vikings",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/545.png",
+    "url": "{HTML_URL}/Clash Of Vikings.html" 
+  },
+    {
+    "id": -157,
+     "name": "Granny",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/90.png",
+    "url": "{HTML_URL}/Granny.html" 
+  }
+    {
+    "id": -158,
+     "name": "Granny 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/91.png",
+    "url": "{HTML_URL}/Granny 2.html" 
+  }
+    {
+    "id": -159,
+     "name": "Granny 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/92.png",
+    "url": "{HTML_URL}/Granny 3.html" 
   }
 ]

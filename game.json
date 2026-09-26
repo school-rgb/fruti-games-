@@ -743,5 +743,17 @@
     "name": "Google Dino",
     "cover": "https://play-lh.googleusercontent.com/iiIJq5JmLFYNI1bVz4IBHyoXs508JcEzHhOgau69bnveF9Wat51-ax9LMPVOlneKwqg",
     "url": "{HTML_URL}/Google Dino.html"
-  }
+  },
+   {
+    "id": -125,
+    "name": "Happy Wheels",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/624.png",
+    "url": "{HTML_URL}/Happy Wheels.html"
+  }, 
+  {
+    "id": -126,
+    "name": "",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/624.png",
+    "url": "{HTML_URL}/Happy Wheels.html"
+  },
 ]

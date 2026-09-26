@@ -788,9 +788,9 @@
   },
     {
     "id": -132,
-     "name": "Super Mario 64 DS",
-    "cover": "https://tse3.mm.bing.net/th/id/OIP.IF2ZEw7N-lk5BfF2oYy3BAHaGl?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    "url": "{HTML_URL}/Super Mario 64 DS.html"
+     "name": "Wheely",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/245.png",
+    "url": "{HTML_URL}/Wheely.html"
   },
    {
     "id": -133,
@@ -803,5 +803,41 @@
      "name": "Undertale Yellow",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/456.png",
     "url": "{HTML_URL}/Undertale Yellow.html"
-  }
+  },
+    {
+    "id": -135,
+     "name": "Wheely 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/246.png",
+    "url": "{HTML_URL}/Wheely 2.html"
+  },
+    {
+    "id": -136,
+     "name": "Wheely 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/247.png",
+    "url": "{HTML_URL}/Wheely 3.html"
+  },
+  {
+    "id": -137,
+     "name": "Wheely 4",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/248.png",
+    "url": "{HTML_URL}/Wheely 4.html"
+  },
+   {
+    "id": -138,
+     "name": "Wheely 5",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/249.png",
+    "url": "{HTML_URL}/Wheely 5.html"
+  },
+   {
+    "id": -139,
+     "name": "Wheely 6",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/250.png",
+    "url": "{HTML_URL}/Wheely 6.html"
+  },
+    {
+    "id": -140,
+     "name": "Wheely 7",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/251.png",
+    "url": "{HTML_URL}/Wheely 7.html"
+  },
 ]

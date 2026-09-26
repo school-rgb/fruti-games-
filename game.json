@@ -941,17 +941,29 @@
      "name": "Granny",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/90.png",
     "url": "{HTML_URL}/Granny.html" 
-  }
+  },
     {
     "id": -158,
      "name": "Granny 2",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/91.png",
     "url": "{HTML_URL}/Granny 2.html" 
-  }
+  },
     {
     "id": -159,
      "name": "Granny 3",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/92.png",
     "url": "{HTML_URL}/Granny 3.html" 
+  },
+   {
+    "id": -160,
+     "name": "Angry Birds Epic",
+    "cover": "https://truffled.lol/png/games/epic.webp",
+    "url": "https://school-rgb.github.io/EpicWeb/" 
+  },
+     {
+    "id": -161,
+     "name": "lethal-ape",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/793.png",
+    "url": "https://school-rgb.github.io/lethal-ape/" 
   }
 ]

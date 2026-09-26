@@ -845,5 +845,29 @@
      "name": "Wheely 8",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/252.png",
     "url": "{HTML_URL}/Wheely 8.html"
+  },
+   {
+    "id": -142,
+     "name": "World’s Hardest Game",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/103.png",
+    "url": "{HTML_URL}/World’s Hardest Game.html"
+  },
+   {
+    "id": -142,
+     "name": "World’s Hardest Game 2",
+    "cover": "https://tse1.mm.bing.net/th/id/OIP.vl_miz6_AfqUhifJm5OHxwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/World’s Hardest Game 2.html"
+  },
+   {
+    "id": -142,
+     "name": "World’s Hardest Game 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/104.png",
+    "url": "{HTML_URL}/World’s Hardest Game 3.html"
+  },
+   {
+    "id": -142,
+     "name": "World’s Hardest Game 4",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/105.png",
+    "url": "{HTML_URL}/World’s Hardest Game 4.html"
   }
 ]

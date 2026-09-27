@@ -977,5 +977,11 @@
      "name": "64 in 1 NES",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/732.png",
     "url": "{HTML_URL}/64 in 1 NES.html" 
+  },
+     {
+    "id": -164,
+     "name": "Johnny Trigger",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/732.png",
+    "url": "{HTML_URL}/Johnny Trigger.html" 
   }
 ]

@@ -112,50 +112,30 @@
     "name": "Grand Theft Auto III",
     "cover": "https://truffled.lol/png/games/gta3.webp",
     "url": "{HTML_URL}/gta3.html"
-    "special": [
-      "port"
-    ]
-
   },
   {
     "id": -21,
     "name": "Grand Theft Auto vice city",
     "cover": "https://th.bing.com/th/id/OIP.W6BU6DSAmNjeE_Og8C9UMgAAAA?w=189&h=233&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
     "url": "{HTML_URL}/gtavice.html"
-    "special": [
-      "port"
-    ]
-
   },
   {
     "id": -22,
     "name": "Grand Theft Auto San Andreas",
     "cover": "https://th.bing.com/th?q=al-Qaida+Grand+Theft+Auto+San+Andreas&w=120&h=120&c=1&rs=1&qlt=70&r=0&o=7&cb=1&dpr=1.4&pid=InlineBlock&rm=3&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1&mw=247",
     "url": "{HTML_URL}/gtasan.html"
-     "special": [
-      "port"
-    ]
-
   },
   {
     "id": -23,
     "name": "-3",
     "cover": "https://gn-math.dev/s/EE0_FEFXflkxUx5iECccXCcNRB9_GDdDXysSex5LLgFQGDgFPFIDP1U3F08uFkEtPBc7WV8//816.png",
     "url": "{HTML_URL}/-3.html"
-    "special": [
-      "port"
-    ]
-
   },
   {
     "id": -24,
     "name": "-b",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/817.png",
     "url": "{HTML_URL}/cl-b (1).html"
-     "special": [
-      "port"
-    ]
-
   },
   {
     "id": -25,
@@ -180,10 +160,6 @@
     "name": "Angry Birds 2",
     "cover": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/angry-birds-2/4/45/Angry-birds-2-button-000jpg-82f136.jpg",
     "url": "{HTML_URL}/Angry Birds 2.html"
-    "special": [
-      "port"
-    ]
-
   },
    {
     "id": -29,
@@ -280,10 +256,6 @@
     "name": "brotato",
     "cover": "https://cdn1.epicgames.com/spt-assets/2c5525406ea34caebf391f1f4c8a44a5/brotato-294jp.png",
     "url": "{HTML_URL}/brotato.html"
-     "special": [
-      "port"
-    ]
-
   },
    {
     "id": -45,
@@ -302,10 +274,6 @@
     "name": "60 Seconds! Reatomized",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/858.png",
     "url": "{HTML_URL}/60 Seconds! Reatomized.html"
-     "special": [
-      "port"
-    ]
-
    },
   {
     "id": -48,
@@ -330,10 +298,6 @@
     "name": "Baldi’s Basics",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/65.png",
     "url": "{HTML_URL}/Baldi’s Basics.html"
-     "special": [
-      "port"
-    ]
-
    },
    {
     "id": -52,
@@ -388,20 +352,12 @@
     "name": "fallout",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/585.png",
     "url": "{HTML_URL}/clfallout.html"
-     "special": [
-      "port"
-    ]
-
   },
    {
     "id": -61,
     "name": "GangBeast",
     "cover": "https://tse4.mm.bing.net/th/id/OIP.crZIQ2uO5QRQxD17KvDsfAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "https://school-rgb.github.io/GangBeast-WebPort/"
-     "special": [
-      "port"
-    ]
-
    },
    {
     "id": -62,
@@ -432,20 +388,12 @@
     "name": "Peak",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/847.png",
     "url": "https://school-rgb.github.io/Peak-Port/?cdn=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwasmdotrip%2FPeak-Port%40main"
-     "special": [
-      "port"
-    ]
-
    },
    {
     "id": -67,
     "name": "Half Life",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/262.png",
     "url": "{HTML_URL}/Half Life.html"
-     "special": [
-      "port"
-    ]
-
    },
    {
     "id": -68,
@@ -536,10 +484,6 @@
     "name": "Apes vs. Helium",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/783.png",
     "url": "{HTML_URL}/Apes vs. Helium.html"
-    "special": [
-      "port"
-    ]
-
     },
    {
     "id": -83,
@@ -588,20 +532,12 @@
     "name": "undertale",
     "cover": "https://truffled.lol/png/games/uertale.webp",
     "url": "{HTML_URL}/undertale.html"
-     "special": [
-      "port"
-    ]
-
      },
    {
     "id": -91,
     "name": "A Difficult Game About Climbing",
     "cover": "https://truffled.lol/png/games/adgac.webp",
     "url": "{HTML_URL}/A Difficult Game About Climbing.html"
-     "special": [
-      "port"
-    ]
-
    },
   {
     "id": -92,
@@ -722,60 +658,36 @@
     "name": "Five Nights at Freddy's",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/38.png",
     "url": "{HTML_URL}/Five Nights at Freddy's.html"
-     "special": [
-      "port"
-    ]
-
     },
   {
     "id": -111,
     "name": "Five Nights at Freddy's 2",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/39.png",
     "url": "{HTML_URL}/Five Nights at Freddy's 2.html"
-    "special": [
-      "port"
-    ]
-
   },
     {
     "id": -112,
     "name": "Five Nights at Freddy's 3",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/40.png",
     "url": "{HTML_URL}/Five Nights at Freddy's 3.html"
-     "special": [
-      "port"
-    ]
-
     },
    {
     "id": -113,
     "name": "Five Nights at Freddy's 4",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/41.png",
     "url": "{HTML_URL}/Five Nights at Freddy's 4.html"
-     "special": [
-      "port"
-    ]
-
    },
     {
     "id": -114,
     "name": "Five Nights at Freddy's 4 Halloween",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/428.png",
-    "url": "{HTML_URL}/Five Nights at Freddy's 4 Halloween.html"   
-      "special": [
-      "port"
-    ]
-
+    "url": "{HTML_URL}/Five Nights at Freddy's 4 Halloween.html"
     },
       {
     "id": -115,
     "name": "Five Nights at Freddy's World",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/190.png",
     "url": "{HTML_URL}/Five Nights at Freddy's World.html"
-        "special": [
-      "port"
-    ]
-
   },
   {
     "id": -116,
@@ -890,10 +802,6 @@
      "name": "Undertale Yellow",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/456.png",
     "url": "{HTML_URL}/Undertale Yellow.html"
-      "special": [
-      "port"
-    ]
-
     },
     {
     "id": -135,
@@ -1032,59 +940,36 @@
      "name": "Granny",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/90.png",
     "url": "{HTML_URL}/Granny.html" 
-      "special": [
-      "port"
-    ]
-
     },
     {
     "id": -158,
      "name": "Granny 2",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/125.png",
     "url": "{HTML_URL}/Granny 2.html" 
-     "special": [
-      "port"
-    ]
-
     },
     {
     "id": -159,
      "name": "Granny 3",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/852.png",
     "url": "{HTML_URL}/Granny 3.html" 
-     "special": [
-      "port"
-    ]
-
     },
    {
     "id": -160,
      "name": "Angry Birds Epic",
     "cover": "https://truffled.lol/png/games/epic.webp",
     "url": "https://school-rgb.github.io/EpicWeb/" 
-      "special": [
-      "port"
-    ]
-
    },
      {
     "id": -161,
      "name": "lethal-ape",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/793.png",
-    "url": "https://school-rgb.github.io/lethal-ape/" 
-      "special": [
-      "port"
-    ]
-
+    "url": "https://school-rgb.github.io/lethal-ape/"
      },
   {
     "id": -162,
      "name": "Gorilla Tag",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/668.png",
     "url": "{HTML_URL}/Gorilla Tag.html" 
-     "special": [
-      "port"
-    ]
   }, 
    {
     "id": -163,
@@ -1103,20 +988,12 @@
      "name": "Celeste",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/623.png",
     "url": "{HTML_URL}/Celeste.html" 
-     "special": [
-      "port"
-    ]
-
-      },
+     },
      {
     "id": -166,
      "name": "Hollow Knight",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/623.png",
-    "url": "{HTML_URL}/Hollow Knight.html" 
-       "special": [
-      "port"
-    ]
-
+    "url": "{HTML_URL}/Hollow Knight.html"      
      },
      {
     "id": -167,
@@ -1135,9 +1012,5 @@
      "name": "Hollow Knight: Silksong",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/740.png",
     "url": "{HTML_URL}/Hollow Knight: Silksong.html" 
-   "special": [
-      "port"
-    ]
-
       }
 ]

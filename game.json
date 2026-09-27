@@ -759,7 +759,7 @@
    {
     "id": -127,
     "name": "Lego Batman 2",
-    "cover": "https://www.lukiegames.com/assets/images/DS/ds_lego_batman_the_videogame-110214.jpg",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.wghpOEk1ZurU0qjcwgXthgHaHY?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/Lego Batman 2.html"
   },
   {
@@ -945,13 +945,13 @@
     {
     "id": -158,
      "name": "Granny 2",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/91.png",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/125.png",
     "url": "{HTML_URL}/Granny 2.html" 
   },
     {
     "id": -159,
      "name": "Granny 3",
-    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/92.png",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/852.png",
     "url": "{HTML_URL}/Granny 3.html" 
   },
    {
@@ -965,5 +965,17 @@
      "name": "lethal-ape",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/793.png",
     "url": "https://school-rgb.github.io/lethal-ape/" 
+  },
+  {
+    "id": -162,
+     "name": "Gorilla Tag",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/668.png",
+    "url": "{HTML_URL}/Gorilla Tag.html" 
+  },
+   {
+    "id": -163,
+     "name": "64 in 1 NES",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/732.png",
+    "url": "{HTML_URL}/64 in 1 NES.html" 
   }
 ]

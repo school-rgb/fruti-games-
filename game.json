@@ -1012,5 +1012,29 @@
      "name": "Hollow Knight: Silksong",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/771.png",
     "url": "{HTML_URL}/Hollow Knight: Silksong.html" 
+      },
+    {
+    "id": -170,
+     "name": "Bad Time Simulator",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/472.png",
+    "url": "{HTML_URL}/Bad Time Simulator.html" 
+      },
+      {
+    "id": -171,
+     "name": "Super Mario Bros",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/508.png",
+    "url": "{HTML_URL}/Super Mario Bros.html" 
+      },
+    {
+    "id": -172,
+     "name": "Superhot",
+    "cover": "https://truffled.lol/png/games/superhot.webp",
+    "url": "{HTML_URL}/Superhot.html" 
+      },
+      {
+    "id": -173,
+     "name": "Among Us",
+    "cover": "https://truffled.lol/png/games/superhot.webp",
+    "url": "https://school-rgb.github.io/AmongUsPort/" 
       }
 ]

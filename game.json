@@ -1084,5 +1084,126 @@
      "name": "Cluster Rush",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/81.png",
     "url": "{HTML_URL}/Cluster Rush.html" 
-      }
+      },
+    {
+    "id": -182,
+     "name": "Dalgona Candy Honeycomb Cookie",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/565.png",
+    "url": "{HTML_URL}/Dalgona Candy Honeycomb Cookie.html" 
+      },
+     {
+    "id": -183,
+     "name": "Block Blast",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/6.png",
+    "url": "{HTML_URL}/Block Blast.html" 
+      },
+     {
+    "id": -184,
+     "name": "Jetpack Joyride",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/7.png",
+    "url": "{HTML_URL}/Jetpack Joyride.html" 
+      },
+     {
+    "id": -185,
+     "name": "Temple Run 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/10.png",
+    "url": "{HTML_URL}/Temple Run 2.html" 
+      },
+     {
+    "id": -186,
+     "name": "Stickman Hook",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/11.png",
+    "url": "{HTML_URL}/Stickman Hook.html" 
+      },
+     {
+    "id": -187,
+     "name": "Mob Control HTML5",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/22.png",
+    "url": "{HTML_URL}/Mob Control HTML5.html" 
+      },
+     {
+    "id": -188,
+     "name": "Pou",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/23.png",
+    "url": "{HTML_URL}/Pou.html" 
+      },
+     {
+    "id": -189,
+     "name": "Color Match",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/31.png",
+    "url": "{HTML_URL}/Color Match.html" 
+      },
+     {
+    "id": -190,
+     "name": "Crossy Road",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/24.png",
+    "url": "{HTML_URL}/Crossy Road.html" 
+      },
+     {
+    "id": -191,
+     "name": "Retro Bowl",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/33.png",
+    "url": "{HTML_URL}/Retro Bowl.html" 
+      },
+     {
+    "id": -192,
+     "name": "Backrooms",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/64.png",
+    "url": "{HTML_URL}/Backrooms.html" 
+      },
+     {
+    "id": -193,
+     "name": "BitLife",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/70.png",
+    "url": "{HTML_URL}/BitLife.html" 
+      },
+     {
+    "id": -194,
+     "name": "Boxing Random",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/92.png",
+    "url": "{HTML_URL}/Boxing Random.html" 
+      },
+     {
+    "id": -195,
+     "name": "Moto X3M",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/96.png",
+    "url": "{HTML_URL}/Moto X3M.html" 
+      },
+     {
+    "id": -196,
+     "name": "Highway Racer 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/92.png",
+    "url": "{HTML_URL}/Highway Racer 2.html" 
+      },
+     {
+    "id": -197,
+     "name": "Gunspin",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/91.png",
+    "url": "{HTML_URL}/Gunspin.html" 
+      },
+     {
+    "id": -198,
+     "name": "Moto X3M 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/97.png",
+    "url": "{HTML_URL}/Moto X3M 2.html" 
+      },
+     {
+    "id": -199,
+     "name": "Moto X3M 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/98.png",
+    "url": "{HTML_URL}/Moto X3M 3.html" 
+      },
+     {
+    "id": -200,
+     "name": "Moto X3M Spooky",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/99.png",
+    "url": "{HTML_URL}/Moto X3M Spooky.html" 
+      },
+     {
+    "id": -201,
+     "name": "Moto X3M Winter",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/100.png",
+    "url": "{HTML_URL}/Moto X3M Winter.html" 
+      },
+    
 ]

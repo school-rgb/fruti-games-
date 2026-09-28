@@ -2,19 +2,19 @@
   {
     "id": 0,
     "name": "clcrashbandicoot",
-    "cover": "{COVER_URL}/OIP (5).webp",
+    "cover": "https://truffled.lol/png/games/crash1.webp",
     "url": "{HTML_URL}/clcrashbandicoot (1).html"
   },
   {
     "id": -2,
     "name": "clcrash2",
-    "cover": "{COVER_URL}/OIP (6).webp",
+    "cover": "https://truffled.lol/png/games/crash2.webp",
     "url": "{HTML_URL}/clcrash2 (1).html"
   },
   {
     "id": -3,
     "name": "clcrash3",
-    "cover": "{COVER_URL}/R.webp",
+    "cover": "https://truffled.lol/png/games/crash3.webp",
     "url": "{HTML_URL}/clcrash3.html"
   },
   {
@@ -116,14 +116,14 @@
   {
     "id": -21,
     "name": "Grand Theft Auto vice city",
-    "cover": "https://th.bing.com/th/id/OIP.W6BU6DSAmNjeE_Og8C9UMgAAAA?w=189&h=233&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
+    "cover": "https://truffled.lol/png/games/vice.webp",
     "url": "{HTML_URL}/gtavice.html"
   },
   {
     "id": -22,
     "name": "Grand Theft Auto San Andreas",
-    "cover": "https://th.bing.com/th?q=al-Qaida+Grand+Theft+Auto+San+Andreas&w=120&h=120&c=1&rs=1&qlt=70&r=0&o=7&cb=1&dpr=1.4&pid=InlineBlock&rm=3&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1&mw=247",
-    "url": "{HTML_URL}/gtasan.html"
+    "cover": "https://truffled.lol/png/games/gtasan.webp",
+    "url": "https://truffled.lol/games/gtasan/index.html"
   },
   {
     "id": -23,
@@ -1088,8 +1088,8 @@
     {
     "id": -182,
      "name": "Deltarune",
-    "cover": "https://tse4.mm.bing.net/th/id/OIP.abUKVPSWcYqpvT1a3adO4wHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    "url": "{HTML_URL}/Deltarune.html" 
+    "cover": "https://truffled.lol/png/games/deltarune.webp",
+    "url": "https://truffled.lol/games/deltarune/index.html" 
       },
      {
     "id": -183,
@@ -1101,7 +1101,7 @@
     "id": -184,
      "name": "Jetpack Joyride",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/7.png",
-    "url": "{HTML_URL}/Jetpack Joyride.html" 
+    "url": "https://truffled.lol/games/jetpackjoyride/index.html" 
       },
      {
     "id": -185,
@@ -1161,7 +1161,7 @@
     "id": -194,
      "name": "Boxing Random",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/77.png",
-    "url": "{HTML_URL}/Boxing Random.html" 
+    "url": "https://truffled.lol/gamefile/boxing.html" 
       },
      {
     "id": -195,

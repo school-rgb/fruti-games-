@@ -1036,5 +1036,53 @@
      "name": "Among Us",
     "cover": "https://truffled.lol/png/games/among.webp",
     "url": "https://school-rgb.github.io/AmongUsPort/" 
+      },
+     {
+    "id": -174,
+     "name": "SCP: Containment Breach",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/853.png",
+    "url": "{HTML_URL}/SCP: Containment Breach.html" 
+      },
+     {
+    "id": -175,
+     "name": "Dadish",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/357.png",
+    "url": "{HTML_URL}/Dadish.html" 
+      },
+      {
+    "id": -176,
+     "name": "Dadish 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/355.png",
+    "url": "{HTML_URL}/Dadish 2.html" 
+      },
+      {
+    "id": -177,
+     "name": "Dadish 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/356.png",
+    "url": "{HTML_URL}/Dadish 3.html" 
+      },
+      {
+    "id": -178,
+     "name": "Binding of Issac: Wrath of the Lamb",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/350.png",
+    "url": "{HTML_URL}/Binding of Issac: Wrath of the Lamb.html" 
+      },
+      {
+    "id": -179,
+     "name": "ClusterTruck",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/848.png",
+    "url": "{HTML_URL}/ClusterTruck.html" 
+      },
+    {
+    "id": -180,
+     "name": "A Dance of Fire and Ice",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/59.png",
+    "url": "{HTML_URL}/A Dance of Fire and Ice.html" 
+      },
+      {
+    "id": -181,
+     "name": "Cluster Rush",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/81.png",
+    "url": "{HTML_URL}/Cluster Rush.html" 
       }
 ]

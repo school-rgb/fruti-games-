@@ -1330,5 +1330,77 @@
      "name": "Gamble With Your Friends",
     "cover": "https://truffled.lol/png/games/gamble.webp",
     "url": "https://school-rgb.github.io/gamble-with-your-friends-web/" 
+      },
+    {
+    "id": -223,
+     "name": "Friday Night Funkin",
+    "cover": "https://tse1.mm.bing.net/th/id/OIP.z7quq_mfyyZLQ69-ILgVZwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Friday Night Funkin.html" 
+      },
+     {
+    "id": -224,
+     "name": "Friday Night Funkin B-Sides",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.ptqysEKYpdJc3dytxVTPKAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Friday Night Funkin B-Sides.html" 
+      },
+     {
+    "id": -225,
+     "name": "Friday Night Funkin vs Shaggy",
+    "cover": "https://th.bing.com/th/id/OIP.wYrt4SKy8H1srzIFCEXGJAHaHa?w=158&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
+    "url": "{HTML_URL}/Friday Night Funkin vs Shaggy.html" 
+      },
+     {
+    "id": -226,
+     "name": "Friday Night Funkin': Vs. Sonic.Exe",
+    "cover": "https://i1.sndcdn.com/artworks-fAKJmBec8GpDgySx-aXTgfw-t500x500.jpg",
+    "url": "{HTML_URL}/Friday Night Funkin': Vs. Sonic.Exe.html" 
+      },
+     {
+    "id": -227,
+     "name": "Basket Random",
+    "cover": "https://basketballlegends.pro/data/image/menu/basket-random.jpg",
+    "url": "{HTML_URL}/Basket Random.html" 
+      },
+     {
+    "id": -228,
+     "name": "Lego Ninjago",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.9ECyBQFu5j1MTt2TeMMniwHaGq?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Lego Ninjago.html" 
+      },
+     {
+    "id": -229,
+     "name": "Lego Star Wars",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.unkItOk8XQKAbJvN-tDYbgHaGp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Lego Star Wars.html" 
+      },
+     {
+    "id": -230,
+     "name": "Mario Party DS",
+    "cover": "https://crazofgame.com/wp-content/uploads/2019/10/Mario-Party.jpg",
+    "url": "{HTML_URL}/Mario Party DS.html" 
+      },
+     {
+    "id": -231,
+     "name": "New Super Mario Bros",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.1UMmAqIe9Y3SeDmFLj6KEgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/New Super Mario Bros.html" 
+      },
+     {
+    "id": -232,
+     "name": "Super Mario Bros 2",
+    "cover": "https://images.wikidexcdn.net/mwuploads/esssbwiki/thumb/f/ff/latest/20130707120521/Super-mario-bros-2-nes.png/1200px-Super-mario-bros-2-nes.png",
+    "url": "{HTML_URL}/Super Mario Bros 2.html" 
+      },
+     {
+    "id": -233,
+     "name": "Super Mario Bros 3",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.Q5EzlRR0FqjrGWYODS9KWgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Super Mario Bros 3.html" 
+      },
+     {
+    "id": -234,
+     "name": "1 On 1 Tennis",
+    "cover": "https://th.bing.com/th/id/OIP.7InEQ2wTmqtyLf2-8L0GzwAAAA?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/1 On 1 Tennis.html" 
       }
 ]

@@ -955,9 +955,9 @@
     },
    {
     "id": -160,
-     "name": "Angry Birds Epic",
-    "cover": "https://truffled.lol/png/games/epic.webp",
-    "url": "{HTML_URL}/Angry Birds Epic.html" 
+     "name": "Snow Rider 3D",
+    "cover": "https://tse3.mm.bing.net/th/id/OIF.JqJ1tw3x9cWr4AbXLGP5oA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Snow Rider 3D.html" 
    },
      {
     "id": -161,
@@ -1089,7 +1089,7 @@
     "id": -182,
      "name": "Deltarune",
     "cover": "https://truffled.lol/png/games/deltarune.webp",
-    "url": "{HTML_URL}/Deltarune.html" 
+    "url": "https://school-rgb.github.io/deltarune/" 
       },
      {
     "id": -183,
@@ -1099,9 +1099,9 @@
       },
      {
     "id": -184,
-     "name": "Jetpack Joyride",
+     "name": "Soccer Random",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/7.png",
-    "url": "{HTML_URL}/Jetpack Joyride 8.html" 
+    "url": "{HTML_URL}/Soccer Random.html" 
       },
      {
     "id": -185,
@@ -1161,7 +1161,7 @@
     "id": -194,
      "name": "Boxing Random",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/77.png",
-    "url": "https://truffled.lol/gamefile/boxing.html" 
+    "url": "boxing.html" 
       },
      {
     "id": -195,
@@ -1257,7 +1257,7 @@
     "id": -210,
      "name": "Azahar (Emulator)",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/849.png",
-    "url": "Azahar.html" 
+    "url": "{HTML_URL}/Azahar.html" 
       },
     {
     "id": -211,
@@ -1329,6 +1329,6 @@
     "id": -222,
      "name": "Gamble With Your Friends",
     "cover": "https://truffled.lol/png/games/gamble.webp",
-    "url": "{HTML_URL}/Gamble With Your Friends.html" 
+    "url": "https://school-rgb.github.io/gamble-with-your-friends-web/" 
       }
 ]

@@ -1402,5 +1402,83 @@
      "name": "1 On 1 Tennis",
     "cover": "https://th.bing.com/th/id/OIP.7InEQ2wTmqtyLf2-8L0GzwAAAA?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/1 On 1 Tennis.html" 
+      },
+     {
+    "id": -235,
+     "name": "Baldi’s Basics Remastered",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.o2TEHovFR_e1dvZwClj9qgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Baldi’s Basics Remastered.html" 
+      },
+     {
+    "id": -236,
+     "name": "Baldi's Basics The Ultra Decompile",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/815.png",
+    "url": "{HTML_URL}/Baldi's Basics The Ultra Decompile.html" 
+      },
+     {
+    "id": -237,
+     "name": "Baldi’s Fun New School Ultimate",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.TptDUY4WBCqeCYtMgrSFFwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Baldi’s Fun New School Ultimate.html" 
+      },
+     {
+    "id": -238,
+     "name": "Earn to Die",
+    "cover": "https://frivez.com/images/earn-to-die.jpg",
+    "url": "{HTML_URL}/Earn to Die.html" 
+      },
+     {
+    "id": -239,
+     "name": "Earn to Die 2",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.8Gzh_tdEliBNUniLK-CI4wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Earn to Die 2.html" 
+      },
+     {
+    "id": -240,
+     "name": "Five Nights at Candy’s 1",
+    "cover": "https://images.sftcdn.net/images/t_app-icon-m/p/7da6593d-6b0c-4aec-97bd-dc2ca192ca1d/3365555014/five-nights-at-candys-custom-night-icon.png",
+    "url": "{HTML_URL}/Five Nights at Candy’s 1.html" 
+      },
+     {
+    "id": -241,
+     "name": "Five Nights at Candy’s 2",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.K59zNG5PwN7-mskGdWjDywAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Five Nights at Candy’s 2.html" 
+      },
+     {
+    "id": -242,
+     "name": "Five Nights at Sister Location",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/185.png",
+    "url": "{HTML_URL}/Five Nights at Sister Location.html" 
+      },
+     {
+    "id": -243,
+     "name": "Five Nights at Freddy's: Pizza Simulator",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/191.png",
+    "url": "{HTML_URL}/Five Nights at Freddy's: Pizza Simulator.html" 
+      },
+     {
+    "id": -244,
+     "name": "Five Nights at Epstein's",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/710.png",
+    "url": "{HTML_URL}/Five Nights at Epstein's.html" 
+      },
+     {
+    "id": -245,
+     "name": "Infinite Craft",
+    "cover": "https://th.bing.com/th/id/OIP.MmZNhLGaJl77G-OX4BKTfgHaHa?w=167&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
+    "url": "{HTML_URL}/Infinite Craft.html" 
+      },
+     {
+    "id": -246,
+     "name": "Slither.io",
+    "cover": "https://atmhtml5games.com/games/game-post/slither_io_1_image.jpg",
+    "url": "{HTML_URL}/Slither.io.html" 
+      },
+     {
+    "id": -247,
+     "name": "Poly Track",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.OSS9nNcLnhfMEQ7jyIhwZgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Poly Track.html" 
       }
 ]

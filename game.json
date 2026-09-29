@@ -1089,7 +1089,7 @@
     "id": -182,
      "name": "Deltarune",
     "cover": "https://truffled.lol/png/games/deltarune.webp",
-    "url": "https://truffled.lol/games/deltarune/index.html" 
+    "url": "{HTML_URL}/Deltarune.html" 
       },
      {
     "id": -183,
@@ -1101,7 +1101,7 @@
     "id": -184,
      "name": "Jetpack Joyride",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/7.png",
-    "url": "https://truffled.lol/games/jetpackjoyride/index.html" 
+    "url": "{HTML_URL}/Jetpack Joyride.html" 
       },
      {
     "id": -185,
@@ -1227,7 +1227,7 @@
     "id": -205,
      "name": "Geometry Dash",
     "cover": "https://poki.ac/wp-content/uploads/2022/09/geometry-dash.jpg",
-    "url": "https://web-dashers.github.io/" 
+    "url": "{HTML_URL}/Geometry Dash.html" 
       },
     {
     "id": -206,
@@ -1264,5 +1264,65 @@
      "name": "Spaceflight Simulator",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/808.png",
     "url": "{HTML_URL}/Spaceflight Simulator.html" 
+      },
+      {
+    "id": -212,
+     "name": "Red Ball 4 Vol. 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/243.png",
+    "url": "{HTML_URL}/Red Ball 4 Vol. 2.html" 
+      },
+      {
+    "id": -213,
+     "name": "Red Ball 4 Vol. 3",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/244.png",
+    "url": "{HTML_URL}/Red Ball 4 Vol. 3.html" 
+      },
+      {
+    "id": -214,
+     "name": "Crazy Chicken 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/255.png",
+    "url": "{HTML_URL}/Crazy Chicken 3D.html" 
+      },
+      {
+    "id": -215,
+     "name": "Crazy Kitty 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/256.png",
+    "url": "{HTML_URL}/Crazy Kitty 3D.html" 
+      },
+      {
+    "id": -216,
+     "name": "A Bite at Freddy's",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/258.png",
+    "url": "{HTML_URL}/A Bite at Freddy's.html" 
+      },
+      {
+    "id": -217,
+     "name": "RE:RUN",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/260.png",
+    "url": "{HTML_URL}/RE:RUN.html" 
+      },
+      {
+    "id": -218,
+     "name": "Fruit Ninja",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/261.png",
+    "url": "{HTML_URL}/Fruit Ninja.html" 
+      },
+      {
+    "id": -219,
+     "name": "Escape Road",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/264.png",
+    "url": "{HTML_URL}/Escape Road.html" 
+      },
+      {
+    "id": -220,
+     "name": "Escape Road 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/265.png",
+    "url": "{HTML_URL}/Escape Road 2.html" 
+      },
+      {
+    "id": -221,
+     "name": "Pizza Tower",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/267.png",
+    "url": "{HTML_URL}/Pizza Tower.html" 
       }
 ]

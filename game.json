@@ -1480,5 +1480,47 @@
      "name": "Poly Track",
     "cover": "https://tse4.mm.bing.net/th/id/OIP.OSS9nNcLnhfMEQ7jyIhwZgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/Poly Track.html" 
+      },
+    {
+    "id": -248,
+     "name": "Volley Random",
+    "cover": "https://play-lh.googleusercontent.com/VeKAevaOjPlcyCtOpFY1h6SjwEjnu4ryG3xQ_qw1Muuhrg8pqwhl1aPjWovMkjc0Rc4",
+    "url": "{HTML_URL}/Volley Random.html" 
+      },
+    {
+    "id": -249,
+     "name": "Friday Night Funkin Vs. FNAF 3",
+    "cover": "https://fnf-games.io/data/image/game/fnf-vs-fnaf-3/fnf-vs-fnaf-3.png",
+    "url": "{HTML_URL}/Friday Night Funkin Vs. FNAF 3.html" 
+      },
+    {
+    "id": -250,
+     "name": "Friday Night Funkin VS Impostor",
+    "cover": "https://www.gamenora.com/upload/games/thumbnails/Friday%20Night%20Funkin'%20V.S.%20Impostor.webp",
+    "url": "{HTML_URL}/Friday Night Funkin VS Impostor.html" 
+      },
+    {
+    "id": -251,
+     "name": "Friday Night Funkin': Mario's Madness",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.APtgmRzdgxD_EmyTfOyY2wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Friday Night Funkin': Mario's Madness.html" 
+      },
+    {
+    "id": -252,
+     "name": "Subway Surfers: Mexico",
+    "cover": "https://th.bing.com/th/id/OIP._8LV_4gFNYpMhVrQR-h_KQHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Subway Surfers: Mexico.html" 
+      },
+    {
+    "id": -253,
+     "name": "Subway Surfers: New orleans",
+    "cover": "https://tse1.mm.bing.net/th/id/OIP.3zNAtc_mCSFFgpPO8RqXiQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Subway Surfers: New orleans.html" 
+      },
+    {
+    "id": -254,
+     "name": "Subway surfers: Winter holiday",
+    "cover": "https://th.bing.com/th/id/OIP.P3yWwfpylmli2ZxYjp6tUQHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Subway surfers: Winter holiday.html" 
       }
 ]

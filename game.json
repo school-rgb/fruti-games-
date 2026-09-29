@@ -957,13 +957,13 @@
     "id": -160,
      "name": "Angry Birds Epic",
     "cover": "https://truffled.lol/png/games/epic.webp",
-    "url": "https://school-rgb.github.io/EpicWeb/" 
+    "url": "{HTML_URL}/Angry Birds Epic.html" 
    },
      {
     "id": -161,
      "name": "lethal-ape",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/793.png",
-    "url": "https://school-rgb.github.io/lethal-ape/"
+    "url": "{HTML_URL}/lethal-ape.html"
      },
   {
     "id": -162,
@@ -1233,25 +1233,25 @@
     "id": -206,
      "name": "dumb ways to die",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/738.png",
-    "url": "https://school-rgb.github.io/dumb-ways-to-die/" 
+    "url": "{HTML_URL}/dumb ways to die.html" 
       },
     {
     "id": -207,
      "name": "bendy and the ink machine",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/215.png",
-    "url": "https://school-rgb.github.io/bendy-and-the-ink-machine/" 
+    "url": "{HTML_URL}/bendy and the ink machine.html" 
       },
     {
     "id": -208,
      "name": "untitled goose game",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/718.png",
-    "url": "https://school-rgb.github.io/untitled-goose-game/" 
+    "url": "{HTML_URL}/untitled goose game.html" 
       },
     {
     "id": -209,
      "name": "terraria",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/669.png",
-    "url": "https://school-rgb.github.io/terraria" 
+    "url": "{HTML_URL}/terraria.html" 
       },
     {
     "id": -210,
@@ -1324,5 +1324,11 @@
      "name": "Pizza Tower",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/267.png",
     "url": "{HTML_URL}/Pizza Tower.html" 
+      },
+      {
+    "id": -222,
+     "name": "Gamble With Your Friends",
+    "cover": "https://truffled.lol/png/games/gamble.webp",
+    "url": "{HTML_URL}/Gamble With Your Friends.html" 
       }
 ]

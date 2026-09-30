@@ -1579,14 +1579,56 @@
       },
      {
     "id": -264,
-     "name": "portal 2",
-    "cover": "https://tse2.mm.bing.net/th/id/OIP.LgBqR_RJt1ITcZkKfSAZ4wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-    "url": "{HTML_URL}/portal 2.html" 
+     "name": "Subway Surfers: Iceland",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.Ngm4p5kg5XXQPEdclH8zfgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Subway Surfers: Iceland.html" 
       },
      {
     "id": -265,
      "name": "fish",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/761.png",
     "url": "https://school-rgb.github.io/fish/" 
+      },
+      {
+    "id": -265,
+     "name": "Subway Surfers: London",
+    "cover": "https://th.bing.com/th/id/R.8918ed3b241364ddb4a2366ae1b5debb?rik=AC08YLDngQrApA&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/Subway Surfers: London.html" 
+      },
+      {
+    "id": -266,
+     "name": "Raft Wars",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/344.png",
+    "url": "{HTML_URL}/Raft Wars.html" 
+      },
+      {
+    "id": -267,
+     "name": "Raft Wars 2",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/345.png",
+    "url": "{HTML_URL}/Raft Wars 2.html" 
+      },
+      {
+    "id": -268,
+     "name": "Smash Karts",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/370.png",
+    "url": "{HTML_URL}/Smash Karts.html" 
+      },
+      {
+    "id": -269,
+     "name": "Slope",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.R-YomN1f93P5OCWjfh8yPgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Slope.html" 
+      },
+     {
+    "id": -269,
+     "name": "Slope 2",
+    "cover": "https://slopegame.io/upload/cache/upload/imgs/slope-2-logo-m240x240.png",
+    "url": "{HTML_URL}/Slope 2.html" 
+      },
+     {
+    "id": -269,
+     "name": "Slope 3",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.cqerg_wtXT8gXenskeoNDwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Slope 3.html" 
       }
 ]

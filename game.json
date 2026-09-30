@@ -1522,5 +1522,71 @@
      "name": "Subway surfers: Winter holiday",
     "cover": "https://th.bing.com/th/id/OIP.P3yWwfpylmli2ZxYjp6tUQHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/Subway surfers: Winter holiday.html" 
+      },
+     {
+    "id": -255,
+     "name": "MiSide",
+    "cover": "https://i.pinimg.com/736x/b5/38/ce/b538ceb6aed1ce101d4b7f6ba5d5ab26.jpg",
+    "url": "https://school-rgb.github.io/MiSideWeb/" 
+      },
+     {
+    "id": -256,
+     "name": "Subway surfers Beijing",
+    "cover": "https://tse1.mm.bing.net/th/id/OIP.p0j63dHV-yEpeeeItQqytAHaHa?r=0&w=512&h=512&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Subway surfers Beijing.html" 
+      },
+     {
+    "id": -257,
+     "name": "Subway surfers Zurich",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.EM-_8SZAaXPOqh4mmgZRxgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Subway surfers Zurich.html" 
+      },
+     {
+    "id": -258,
+     "name": "Banjo-Kazooie",
+    "cover": "https://truffled.lol/png/games/banjokazooie.webp",
+    "url": "{HTML_URL}/Banjo-Kazooie.html" 
+      },
+     {
+    "id": -259,
+     "name": "Pokemon Gold",
+    "cover": "https://cdn2.steamgriddb.com/icon/fef0383cea937628ff95eb48ba1ffd17/32/1024x1024.png",
+    "url": "{HTML_URL}/Pokemon Gold.html" 
+      },
+     {
+    "id": -260,
+     "name": "Pokemon Red Version",
+    "cover": "https://cdn2.steamgriddb.com/icon_thumb/b6af61c6866da98f1259c3fa5ae84194.png",
+    "url": "{HTML_URL}/Pokemon Red Version.html" 
+      },
+     {
+    "id": -261,
+     "name": "Plants vs. Zombies",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.AFt8uQs85T10bSqSoGvU0QHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Plants vs. Zombies.html" 
+      },
+     {
+    "id": -262,
+     "name": "Cookie Clicker",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.Vn9844_myLgUwM3rDaddFwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Cookie Clicker.html" 
+      },
+     {
+    "id": -263,
+     "name":   "Duck Life 8",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/695.png",
+    "url": "{HTML_URL}/Duck Life 8.html" 
+      },
+     {
+    "id": -264,
+     "name": "portal 2",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.LgBqR_RJt1ITcZkKfSAZ4wHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/portal 2.html" 
+      },
+     {
+    "id": -265,
+     "name": "fish",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/761.png",
+    "url": "https://school-rgb.github.io/fish/" 
       }
 ]

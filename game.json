@@ -1630,5 +1630,41 @@
      "name": "Slope 3",
     "cover": "https://tse2.mm.bing.net/th/id/OIP.cqerg_wtXT8gXenskeoNDwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/Slope 3.html" 
+      },
+     {
+    "id": -270,
+     "name": "Ages of Conflict",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/444.png",
+    "url": "{HTML_URL}/Ages of Conflict.html" 
+      },
+     {
+    "id": -271,
+     "name": "Bob the Robber 2",
+    "cover": "https://img.itch.zone/aW1nLzExMTc3Mzc1LmpwZw==/original/7dih66.jpg",
+    "url": "{HTML_URL}/Bob the Robber2.html" 
+      },
+     {
+    "id": -272,
+     "name": "Geometry Vibes",
+    "cover": "https://blockblast.org/upload/imgs/geometry-vibes.png",
+    "url": "{HTML_URL}/Geometry Vibes.html" 
+      },
+     {
+    "id": -273,
+     "name": "Jelly Truck",
+    "cover": "https://cargames-unblocked.github.io/game/rs/imgs/jelly-truck.jpg",
+    "url": "{HTML_URL}/Jelly Truck.html" 
+      },
+     {
+    "id": -274,
+     "name": "Jelly Drift",
+    "cover": "https://img.captain-droid.com/wp-content/uploads/2021/09/com-dani-jellydrift-icon.png.webp",
+    "url": "{HTML_URL}/Jelly Drift.html" 
+      },
+     {
+    "id": -275,
+     "name": "Mortal Kombat 4",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.h7wWoJmQio9SyE1j6ITCQgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Mortal Kombat 4.html" 
       }
 ]

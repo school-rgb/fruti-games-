@@ -1745,5 +1745,83 @@
      "name": "Coreball",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/83.png",
     "url": "{HTML_URL}/Coreball.html" 
-      }
+      },
+     {
+    "id": -289,
+     "name": "Cut the Rope: Holiday Gift",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/214.png",
+    "url": "{HTML_URL}/Cut the Rope: Holiday Gift2.html" 
+      },
+     {
+    "id": -290,
+     "name": "Cut the Rope: Time Travel",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/213.png",
+    "url": "{HTML_URL}/Cut the Rope: Time Travel2.html" 
+      },
+     {
+    "id": -291,
+     "name": "Archery World Tour",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/148.png",
+    "url": "{HTML_URL}/Archery World Tour.html" 
+      },
+     {
+    "id": -292,
+     "name": "osu!",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/130.png",
+    "url": "{HTML_URL}/osu!.html" 
+      },
+     {
+    "id": -292,
+     "name": "Papery Planes",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/280.png",
+    "url": "{HTML_URL}/Papery Planes.html" 
+      },
+     {
+    "id": -293,
+     "name": "Flappy Bird",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/129.png",
+    "url": "{HTML_URL}/Flappy Bird.html" 
+      },
+     {
+    "id": -294,
+     "name": "FIFA 11",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/685.png",
+    "url": "{HTML_URL}/FIFA 11.html" 
+      },
+     {
+    "id": -295,
+     "name": "FIFA 10",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/686.png",
+    "url": "{HTML_URL}/FIFA 10.html" 
+      },
+     {
+    "id": -296,
+     "name": "Doge Miner",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/511.png",
+    "url": "{HTML_URL}/Doge Miner.html" 
+      },
+     {
+    "id": -297,
+     "name": "Basketball FRVR",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/28.png",
+    "url": "{HTML_URL}/Basketball FRVR.html" 
+      },
+    {
+    "id": -298,
+     "name": "Raft",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/457.png",
+    "url": "{HTML_URL}/Raft.html" 
+      },
+       {
+    "id": -299,
+     "name": "Cuphead",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/465.png",
+    "url": "{HTML_URL}/Cuphead.html" 
+      },
+       {
+    "id": -300,
+     "name": "Evolving Bombs 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/388.png",
+    "url": "{HTML_URL}/Evolving Bombs 3D.html" 
+      }    
 ]

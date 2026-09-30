@@ -1716,10 +1716,34 @@
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/531.png",
     "url": "{HTML_URL}/SpongeBob SquarePants: The Kah-Ray-Tay Squid.html" 
       },
-      {
+     {
     "id": -284,
      "name": "SpongeBob SquarePants: WereSquirrel",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/532.png",
     "url": "{HTML_URL}/SpongeBob SquarePants: WereSquirrel.html" 
+      },
+     {
+    "id": -285,
+    "name": "Build a Plane",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/377.png",
+    "url": "{HTML_URL}/Build a Plane.html" 
+      },
+     {
+    "id": -286,
+     "name": "Build a Big Army",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/376.png",
+    "url": "{HTML_URL}/Build a Big Army.html" 
+      },
+     {
+    "id": -287,
+     "name": "Build a Queen",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/319.png",
+    "url": "{HTML_URL}/Build a Queen.html" 
+      },
+     {
+    "id": -288,
+     "name": "Coreball",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/83.png",
+    "url": "{HTML_URL}/Coreball.html" 
       }
 ]

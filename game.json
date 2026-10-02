@@ -1889,5 +1889,65 @@
      "name": "The Legend of Zelda Ocarina of Time",
     "cover": "https://tse1.mm.bing.net/th/id/OIP.dWlyjvvi1N-qY-U9BrX09AHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "url": "{HTML_URL}/The Legend of Zelda Ocarina of Time.html" 
-      } 
+      },
+     {
+    "id": -312,
+     "name": "Sonic Advance",
+    "cover": "https://assets-prd.ignimgs.com/2022/04/19/sonicadvance-1650392659150.jpg",
+    "url": "{HTML_URL}/Sonic Advance.html" 
+      },
+     {
+    "id": -313,
+     "name": "Sonic Advance 2",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.h-QKKBph4kPYt6AKJ8qVTgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Sonic Advance 2.html" 
+      },
+     {
+    "id": -314,
+     "name": "Sonic Advance 3",
+    "cover": "https://th.bing.com/th/id/R.780a9eda556fcb852bf836d210025343?rik=i8%2ffq5SUeIVxKQ&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/Sonic Advance 3.html" 
+      },
+     {
+    "id": -315,
+     "name": "The Legend of Zelda - Minish Cap",
+    "cover": "https://cdn2.steamgriddb.com/grid/54bbe7a91dafda72dbd9706fa4d31d69.png",
+    "url": "{HTML_URL}/The Legend of Zelda - Minish Cap.html" 
+      },
+     {
+    "id": -316,
+     "name": "Cooking Mama",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.8SWmZ9IWdFeBpzULac0C2QHaGp?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Cooking Mama.html" 
+      },
+     {
+    "id": -317,
+     "name": "Cooking Mama 2",
+    "cover": "https://www.lukiegames.com/assets/images/DS/ds_cooking_mama_2_dinner_with_friend-110214.jpg",
+    "url": "{HTML_URL}/Cooking Mama 2.html" 
+      },
+     {
+    "id": -318,
+     "name": "Cooking Mama 3",
+    "cover": "https://th.bing.com/th/id/R.830a4ee15181c888b56a32316faf17e1?rik=kLmxkv7aNfMFdQ&riu=http%3a%2f%2fmedia.ign.com%2fgames%2fimage%2fobject%2f143%2f14355324%2fCooking-Mana-3_NDS_US_ESRB.jpg&ehk=TMI5dDjWnyDucLv0NMoYb50QRcyiOyknOap3MOfn5X4%3d&risl=&pid=ImgRaw&r=0",
+    "url": "{HTML_URL}/Cooking Mama 3.html" 
+      },
+     {
+    "id": -319,
+     "name": "Crazy Frog Racer",
+    "cover": "https://annoyingthing.net/images/5/5d/Crazy_Frog_Racer_cover_DS.jpg",
+    "url": "{HTML_URL}/Crazy Frog Racer.html" 
+      },
+     {
+    "id": -320,
+     "name": "Parappa the Rapper",
+    "cover": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/parappa-the-rapper/b/b5/607990-parappa_the_rapper.jpg",
+    "url": "{HTML_URL}/Parappa the Rapper.html" 
+      },
+     {
+    "id": -321,
+     "name": "You vs. 100 Skibidi",
+    "cover": "https://www.roundgames.net/wp-content/uploads/2023/08/You-vs-100-Skibidi-Toilets-Game.jpg",
+    "url": "{HTML_URL}/You vs. 100 Skibidi.html" 
+      
 ]

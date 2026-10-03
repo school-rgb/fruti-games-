@@ -1973,5 +1973,65 @@
      "name": "Indian Truck Simulator",
     "cover": "https://mir-s3-cdn-cf.behance.net/projects/404/5fdebc175917343.Y3JvcCwxMTExLDg2OSw0OTgsOTk.jpg",
     "url": "{HTML_URL}/Indian Truck Simulator.html" 
+     },
+             {
+    "id": -326,
+     "name": "60 Seconds Burger Run",
+    "cover": "https://evilgames.eu/flashgames/thumb/60-seconds-burger-run.png",
+    "url": "{HTML_URL}/60 Seconds Burger Run.html" 
+     },
+             {
+    "id": -327,
+     "name": "Melon Playground",
+    "cover": "https://th.bing.com/th/id/OIP.zvyCdf9ovMm9tJQilYB3xgAAAA?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Melon Playground.html" 
+     },
+             {
+    "id": -328,
+     "name": "MotoX3m Pool Party",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/124.png",
+    "url": "{HTML_URL}/MotoX3m Pool Party.html" 
+     },
+             {
+    "id": -329,
+     "name": "Brawl Simulator 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/755.png",
+    "url": "{HTML_URL}/Brawl Simulator 3D.html" 
+     },
+      {
+    "id": -330,
+     "name": "Cheese Rolling",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/762.png",
+    "url": "{HTML_URL}/Cheese Rolling.html" 
+     },
+     {
+    "id": -331,
+     "name": "Fork n Sausage",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/154.png",
+    "url": "{HTML_URL}/Fork n Sausage.html" 
+     },
+     {
+    "id": -332,
+     "name": "Monster Tracks",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/36.png",
+    "url": "{HTML_URL}/Monster Tracks.html" 
+     },
+     {
+    "id": -333,
+     "name": "n-gon",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/180.png",
+    "url": "{HTML_URL}/n-gon.html" 
+     },
+     {
+    "id": -334,
+     "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/824.png",
+    "url": "{HTML_URL}/Phoenix Wright - Ace Attorney - Trials and Tribulations.html" 
+     },
+     {
+    "id": -335,
+     "name": "Power Hover",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/743.png",
+    "url": "{HTML_URL}/Power Hover.html" 
      }
 ]

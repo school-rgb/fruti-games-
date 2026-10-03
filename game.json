@@ -2033,5 +2033,23 @@
      "name": "Power Hover",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/743.png",
     "url": "{HTML_URL}/Power Hover.html" 
+     },
+     {
+    "id": -336,
+     "name": "Soccer Bros",
+    "cover": "https://th.bing.com/th?id=OIF.%2bltIgxOEcayBowdqIOscug&r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "url": "{HTML_URL}/Soccer Bros.html" 
+     },
+     {
+    "id": -335,
+     "name": "Football Bros",
+    "cover": "https://doodlebaseball.io/data/image/game/football-bros.jpg",
+    "url": "{HTML_URL}/Football Bros.html" 
+     },
+     {
+    "id": -335,
+     "name": "Stickman Duel",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/769.png",
+    "url": "{HTML_URL}/Stickman Duel.html" 
      }
 ]

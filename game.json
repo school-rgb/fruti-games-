@@ -2041,15 +2041,111 @@
     "url": "{HTML_URL}/Soccer Bros.html" 
      },
      {
-    "id": -335,
+    "id": -337,
      "name": "Football Bros",
     "cover": "https://doodlebaseball.io/data/image/game/football-bros.jpg",
     "url": "{HTML_URL}/Football Bros.html" 
      },
-     {
-    "id": -335,
+       {
+    "id": -338,
      "name": "Stickman Duel",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/769.png",
     "url": "{HTML_URL}/Stickman Duel.html" 
+     },
+         {
+    "id": -339,
+     "name": "Stickman Golf",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/374.png",
+    "url": "{HTML_URL}/Stickman Golf.html" 
+     },
+         {
+    "id": -340,
+     "name": "Stickman Fight Ragdoll",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/371.png",
+    "url": "{HTML_URL}/Stickman Fight Ragdoll.html" 
+     },
+         {
+    "id": -341,
+     "name": "Supreme Duelist",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/19.png",
+    "url": "{HTML_URL}/Supreme Duelist.html" 
+     },
+         {
+    "id": -342,
+     "name": "Survivor.io",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/709.png",
+    "url": "{HTML_URL}/Survivor.io.html" 
+     },
+         {
+    "id": -343,
+     "name": "Totally Accurate Battle Simulator (TABS)",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/827.png",
+    "url": "{HTML_URL}/Totally Accurate Battle Simulator (TABS).html" 
+     },
+         {
+    "id": -344,
+     "name": "Toss The Turtle",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/110.png",
+    "url": "{HTML_URL}/Toss The Turtle.html" 
+     },
+         {
+    "id": -345,
+     "name": "Touhou 1 Touhou-Reiiden",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/829.png",
+    "url": "{HTML_URL}/Touhou 1 Touhou-Reiiden.html" 
+     },
+         {
+    "id": -346,
+     "name": "Touhou 2 Touhou-Fuumaroku",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/830.png",
+    "url": "{HTML_URL}/Touhou 2 Touhou-Fuumaroku.html" 
+     },
+         {
+    "id": -347,
+     "name": "Touhou 3 Touhou-Yumejikuu",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/831.png",
+    "url": "{HTML_URL}/Touhou 3 Touhou-Yumejikuu.html" 
+     },
+         {
+    "id": -348,
+     "name": "Touhou 4 Touhou-Gensokyou",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/832.png",
+    "url": "{HTML_URL}/Touhou 4 Touhou-Gensokyou.html" 
+     },
+         {
+    "id": -349,
+     "name": "Touhou 5 Touhou-Kaikidan",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/833.png",
+    "url": "{HTML_URL}/Touhou 5 Touhou-Kaikidan.html" 
+     },
+         {
+    "id": -350,
+     "name": "Trombone Champion",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/855.png",
+    "url": "{HTML_URL}/Trombone Champion.html" 
+     },
+         {
+    "id": -351,
+     "name": "We Become What We Behold",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/671.png",
+    "url": "{HTML_URL}/We Become What We Behold.html" 
+     },
+         {
+    "id": -352,
+     "name": "YoHoHo.io",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/835.png",
+    "url": "{HTML_URL}/YoHoHo.io.html" 
+     },
+         {
+    "id": -353,
+     "name": "Yume Nikki",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/433.png",
+    "url": "{HTML_URL}/Yume Nikki.html" 
+     },
+         {
+    "id": -354,
+     "name": "World Box",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/174.png",
+    "url": "{HTML_URL}/World Box.html" 
      }
 ]

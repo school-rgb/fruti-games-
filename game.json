@@ -2213,5 +2213,47 @@
      "name": "Need For Speed: Underground 2",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/812.png",
     "url": "{HTML_URL}/Need For Speed: Underground 2.html" 
-     }
+     },
+    {
+    "id": -366,
+     "name": "Google Feud",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/361.png",
+    "url": "{HTML_URL}/Google Feud.html" 
+     },
+    {
+    "id": -367,
+     "name": "Count Masters: Stickman Games",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/564.png",
+    "url": "{HTML_URL}/Count Masters: Stickman Games.html" 
+     },
+    {
+    "id": -368,
+     "name": "Gobble",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/37.png",
+    "url": "{HTML_URL}/Gobble.html" 
+     },
+    {
+    "id": -369,
+     "name": "Merge Harvest",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/366.png",
+    "url": "{HTML_URL}/Merge Harvest.html" 
+     },
+    {
+    "id": -370,
+     "name": "Stickman and Guns",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/812.png",
+    "url": "{HTML_URL}/Stickman and Guns.html" 
+     },
+    {
+    "id": -371,
+     "name": "Super Mario 63",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/314.png",
+    "url": "{HTML_URL}/Super Mario 63.html" 
+     },
+    {
+    "id": -372,
+     "name": "Super Star Car",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/579.png",
+    "url": "{HTML_URL}/Super Star Car.html" 
+     }    
 ]

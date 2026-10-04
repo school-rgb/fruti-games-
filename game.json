@@ -2299,9 +2299,39 @@
     "url": "{HTML_URL}/Time Shooter 2.html" 
      },
      {
-    "id": -380,
+    "id": -381,
      "name": "Time Shooter 3 SWAT",
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/201.png",
     "url": "{HTML_URL}/Time Shooter 3.html" 
+     },
+     {
+    "id": -382,
+     "name": "Tiny Fishing",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/108.png",
+    "url": "{HTML_URL}/Tiny Fishing.html" 
+     },
+     {
+    "id": -383,
+     "name": "Tomodachi Collection",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/510.png",
+    "url": "{HTML_URL}/Tomodachi Collection.html" 
+     },
+     {
+    "id": -380,
+     "name": "Tomb Of The Mask",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/109.png",
+    "url": "{HTML_URL}/Tomb Of The Mask.html" 
+     },
+     {
+    "id": -384,
+     "name": "Shooting Master",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/405.png",
+    "url": "{HTML_URL}/Shooting Master.html" 
+     },
+     {
+    "id": -385,
+     "name": "Rocket Goal.io",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/800.png",
+    "url": "{HTML_URL}/Rocket Goal.io.html" 
      }
 ]

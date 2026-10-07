@@ -2430,5 +2430,34 @@
     "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/14.png",
     "url": "{HTML_URL}/Bridge Race.html" 
      },
-               
+       {
+    "id": -402,
+     "name": "Peggle",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/688.png",
+    "url": "{HTML_URL}/Peggle.html" 
+     },
+       {
+    "id": -403,
+     "name": "One Shot: World Machine edition",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/846.png",
+    "url": "{HTML_URL}/One Shot: World Machine edition.html" 
+     },
+       {
+    "id": -404,
+     "name": "Oneshot (LEGACY)",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/622.png",
+    "url": "{HTML_URL}/Oneshot (LEGACY).html" 
+     },
+       {
+    "id": -405,
+     "name": "Wordle",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/112.png",
+    "url": "{HTML_URL}/Wordle.html" 
+     },
+    {
+    "id": -406,
+     "name": "WhosYourDaddy",
+    "cover": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/791.png",
+    "url": "{HTML_URL}/WhosYourDaddy.html" 
+     }           
 ]
